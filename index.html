@@ -57,9 +57,17 @@
       text-decoration: none;
     }
 
+    .news a:hover {
+      text-decoration: underline;
+    }
+
     .news p {
       margin: 6px 0 0;
       color: #555;
+    }
+
+    .error {
+      color: #dc2626;
     }
   </style>
 </head>
@@ -71,54 +79,73 @@
   <p>自分専用ニュースダッシュボード</p>
 </header>
 
-<main>
-
-  <section class="category">
-    <h2>🇯🇵 日本</h2>
-
-    <div class="news">
-      <a href="#">ニュースを読み込んでいます...</a>
-      <p>ここに最新ニュースが表示されます。</p>
-    </div>
-  </section>
-
-  <section class="category">
-    <h2>🌏 国際</h2>
-
-    <div class="news">
-      <a href="#">ニュースを読み込んでいます...</a>
-      <p>ここに最新ニュースが表示されます。</p>
-    </div>
-  </section>
-
-  <section class="category">
-    <h2>💻 AI・IT</h2>
-
-    <div class="news">
-      <a href="#">ニュースを読み込んでいます...</a>
-      <p>ここに最新ニュースが表示されます。</p>
-    </div>
-  </section>
-
-  <section class="category">
-    <h2>📚 教育</h2>
-
-    <div class="news">
-      <a href="#">ニュースを読み込んでいます...</a>
-      <p>ここに最新ニュースが表示されます。</p>
-    </div>
-  </section>
-
-  <section class="category">
-    <h2>🎸 音楽</h2>
-
-    <div class="news">
-      <a href="#">ニュースを読み込んでいます...</a>
-      <p>ここに最新ニュースが表示されます。</p>
-    </div>
-  </section>
-
+<main id="news-container">
+  <p>ニュースを読み込んでいます...</p>
 </main>
+
+<script>
+async function loadNews() {
+  try {
+    const response = await fetch("news.json");
+
+    if (!response.ok) {
+      throw new Error("news.jsonを取得できませんでした");
+    }
+
+    const news = await response.json();
+    const container = document.getElementById("news-container");
+
+    const icons = {
+      "日本": "🇯🇵",
+      "国際": "🌏",
+      "AI・IT": "💻",
+      "教育": "📚",
+      "音楽": "🎸"
+    };
+
+    container.innerHTML = "";
+
+    for (const [category, articles] of Object.entries(news)) {
+      const section = document.createElement("section");
+      section.className = "category";
+
+      const heading = document.createElement("h2");
+      heading.textContent = `${icons[category] || "📰"} ${category}`;
+      section.appendChild(heading);
+
+      if (articles.length === 0) {
+        const message = document.createElement("p");
+        message.textContent = "ニュースがありません。";
+        section.appendChild(message);
+      } else {
+        articles.forEach(article => {
+          const div = document.createElement("div");
+          div.className = "news";
+
+          const link = document.createElement("a");
+          link.href = article.url;
+          link.textContent = article.title;
+          link.target = "_blank";
+          link.rel = "noopener noreferrer";
+
+          div.appendChild(link);
+          section.appendChild(div);
+        });
+      }
+
+      container.appendChild(section);
+    }
+
+  } catch (error) {
+    console.error(error);
+
+    document.getElementById("news-container").innerHTML =
+      '<p class="error">ニュースを読み込めませんでした。</p>';
+  }
+}
+
+loadNews();
+</script>
 
 </body>
 </html>
