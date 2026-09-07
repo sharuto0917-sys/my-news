@@ -26,7 +26,3 @@ with open("news.json", "w", encoding="utf-8") as f:
     json.dump(news, f, ensure_ascii=False, indent=2)
 
 print("ニュースを取得しました！")
-
-git add news.json
-git diff --cached ...
-git push
