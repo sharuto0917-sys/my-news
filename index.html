@@ -1,3 +1,4 @@
+```html
 <!DOCTYPE html>
 <html lang="ja">
 <head>
@@ -17,12 +18,10 @@
       color: #1f2937;
     }
 
-    /* ヘッダー */
     header {
       background: #111827;
       color: white;
       padding: 24px 20px;
-      box-shadow: 0 2px 8px rgba(0,0,0,0.15);
     }
 
     .header-inner {
@@ -33,16 +32,13 @@
     header h1 {
       margin: 0;
       font-size: 32px;
-      letter-spacing: 1px;
     }
 
     header p {
       margin: 6px 0 0;
       color: #cbd5e1;
-      font-size: 14px;
     }
 
-    /* ナビゲーション */
     nav {
       background: white;
       border-bottom: 1px solid #ddd;
@@ -64,14 +60,12 @@
       text-decoration: none;
       white-space: nowrap;
       font-weight: bold;
-      font-size: 14px;
     }
 
     nav a:hover {
       background: #f3f4f6;
     }
 
-    /* メイン */
     main {
       max-width: 1100px;
       margin: 30px auto;
@@ -79,7 +73,7 @@
     }
 
     .page-title {
-      margin-bottom: 25px;
+      margin-bottom: 20px;
     }
 
     .page-title h2 {
@@ -90,7 +84,28 @@
     .page-title p {
       margin: 6px 0 0;
       color: #6b7280;
-      font-size: 14px;
+    }
+
+    /* 検索 */
+    .search-box {
+      background: white;
+      padding: 18px;
+      border-radius: 14px;
+      margin-bottom: 25px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+    }
+
+    .search-box input {
+      width: 100%;
+      padding: 13px 16px;
+      border: 1px solid #d1d5db;
+      border-radius: 10px;
+      font-size: 16px;
+      outline: none;
+    }
+
+    .search-box input:focus {
+      border-color: #2563eb;
     }
 
     /* カテゴリー */
@@ -111,17 +126,19 @@
 
     /* ニュース */
     .news {
+      display: flex;
+      align-items: flex-start;
+      gap: 10px;
       padding: 16px 4px;
       border-bottom: 1px solid #e5e7eb;
-      transition: background 0.2s;
     }
 
     .news:last-child {
       border-bottom: none;
     }
 
-    .news:hover {
-      background: #f8fafc;
+    .news-content {
+      flex: 1;
     }
 
     .news a {
@@ -137,13 +154,30 @@
     }
 
     .news-number {
-      display: inline-block;
-      width: 28px;
       color: #9ca3af;
       font-weight: bold;
+      min-width: 25px;
     }
 
-    /* エラー */
+    /* お気に入りボタン */
+    .favorite {
+      border: none;
+      background: none;
+      font-size: 22px;
+      cursor: pointer;
+      padding: 0 5px;
+      line-height: 1;
+    }
+
+    .favorite:hover {
+      transform: scale(1.15);
+    }
+
+    .no-result {
+      color: #6b7280;
+      padding: 10px 0;
+    }
+
     .error {
       color: #dc2626;
       background: white;
@@ -151,7 +185,6 @@
       border-radius: 10px;
     }
 
-    /* フッター */
     footer {
       text-align: center;
       color: #6b7280;
@@ -159,7 +192,6 @@
       padding: 30px 15px;
     }
 
-    /* スマホ */
     @media (max-width: 600px) {
       header h1 {
         font-size: 26px;
@@ -203,7 +235,15 @@
 
   <div class="page-title">
     <h2>今日のニュース</h2>
-    <p>最新のニュースをカテゴリ別にチェック</p>
+    <p>気になるニュースを検索・お気に入り登録できます</p>
+  </div>
+
+  <div class="search-box">
+    <input
+      type="text"
+      id="search"
+      placeholder="🔎 ニュースを検索..."
+    >
   </div>
 
   <div id="news-container">
@@ -217,6 +257,17 @@
 </footer>
 
 <script>
+let allNews = {};
+let favorites = JSON.parse(localStorage.getItem("myNewsFavorites") || "[]");
+
+const icons = {
+  "日本": "🇯🇵",
+  "国際": "🌏",
+  "AI・IT": "💻",
+  "教育": "📚",
+  "音楽": "🎸"
+};
+
 async function loadNews() {
   try {
     const response = await fetch("news.json");
@@ -225,64 +276,11 @@ async function loadNews() {
       throw new Error("news.jsonを取得できませんでした");
     }
 
-    const news = await response.json();
-    const container = document.getElementById("news-container");
+    allNews = await response.json();
 
-    const icons = {
-      "日本": "🇯🇵",
-      "国際": "🌏",
-      "AI・IT": "💻",
-      "教育": "📚",
-      "音楽": "🎸"
-    };
-
-    container.innerHTML = "";
-
-    for (const [category, articles] of Object.entries(news)) {
-
-      const section = document.createElement("section");
-      section.className = "category";
-      section.id = category;
-
-      const heading = document.createElement("h2");
-      heading.textContent = `${icons[category] || "📰"} ${category}`;
-      section.appendChild(heading);
-
-      if (articles.length === 0) {
-
-        const message = document.createElement("p");
-        message.textContent = "ニュースがありません。";
-        section.appendChild(message);
-
-      } else {
-
-        articles.forEach((article, index) => {
-
-          const div = document.createElement("div");
-          div.className = "news";
-
-          const number = document.createElement("span");
-          number.className = "news-number";
-          number.textContent = `${index + 1}.`;
-
-          const link = document.createElement("a");
-          link.href = article.url;
-          link.textContent = article.title;
-          link.target = "_blank";
-          link.rel = "noopener noreferrer";
-
-          div.appendChild(number);
-          div.appendChild(link);
-
-          section.appendChild(div);
-        });
-      }
-
-      container.appendChild(section);
-    }
+    displayNews();
 
   } catch (error) {
-
     console.error(error);
 
     document.getElementById("news-container").innerHTML =
@@ -290,8 +288,121 @@ async function loadNews() {
   }
 }
 
+function displayNews() {
+
+  const container = document.getElementById("news-container");
+  const searchWord = document
+    .getElementById("search")
+    .value
+    .toLowerCase()
+    .trim();
+
+  container.innerHTML = "";
+
+  for (const [category, articles] of Object.entries(allNews)) {
+
+    const filteredArticles = articles.filter(article =>
+      article.title.toLowerCase().includes(searchWord)
+    );
+
+    const section = document.createElement("section");
+    section.className = "category";
+    section.id = category;
+
+    const heading = document.createElement("h2");
+    heading.textContent =
+      `${icons[category] || "📰"} ${category}`;
+
+    section.appendChild(heading);
+
+    if (filteredArticles.length === 0) {
+
+      const message = document.createElement("p");
+      message.className = "no-result";
+      message.textContent =
+        searchWord ? "検索結果がありません。" : "ニュースがありません。";
+
+      section.appendChild(message);
+
+    } else {
+
+      filteredArticles.forEach((article, index) => {
+
+        const div = document.createElement("div");
+        div.className = "news";
+
+        const number = document.createElement("span");
+        number.className = "news-number";
+        number.textContent = `${index + 1}.`;
+
+        const content = document.createElement("div");
+        content.className = "news-content";
+
+        const link = document.createElement("a");
+        link.href = article.url;
+        link.textContent = article.title;
+        link.target = "_blank";
+        link.rel = "noopener noreferrer";
+
+        content.appendChild(link);
+
+        const favoriteButton = document.createElement("button");
+        favoriteButton.className = "favorite";
+
+        const isFavorite = favorites.some(
+          item => item.url === article.url
+        );
+
+        favoriteButton.textContent =
+          isFavorite ? "⭐" : "☆";
+
+        favoriteButton.title =
+          isFavorite ? "お気に入りから削除" : "お気に入りに追加";
+
+        favoriteButton.onclick = () => {
+          toggleFavorite(article);
+        };
+
+        div.appendChild(number);
+        div.appendChild(content);
+        div.appendChild(favoriteButton);
+
+        section.appendChild(div);
+      });
+    }
+
+    container.appendChild(section);
+  }
+}
+
+function toggleFavorite(article) {
+
+  const index = favorites.findIndex(
+    item => item.url === article.url
+  );
+
+  if (index >= 0) {
+    favorites.splice(index, 1);
+  } else {
+    favorites.push(article);
+  }
+
+  localStorage.setItem(
+    "myNewsFavorites",
+    JSON.stringify(favorites)
+  );
+
+  displayNews();
+}
+
+document.getElementById("search").addEventListener(
+  "input",
+  displayNews
+);
+
 loadNews();
 </script>
 
 </body>
 </html>
+```
