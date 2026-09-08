@@ -1,23 +1,749 @@
 <!DOCTYPE html>
 <html lang="ja">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MY NEWS</title>
 
-<title>MY NEWS</title>
+  <style>
+    * {
+      box-sizing: border-box;
+    }
 
-<style>
-* {
-    box-sizing: border-box;
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      margin: 0;
+      background: #f1f3f6;
+      color: #1f2937;
+    }
+
+    header {
+      background: #111827;
+      color: white;
+      padding: 24px 20px;
+    }
+
+    .header-inner {
+      max-width: 1100px;
+      margin: auto;
+    }
+
+    header h1 {
+      margin: 0;
+      font-size: 32px;
+    }
+
+    header p {
+      margin: 6px 0 0;
+      color: #cbd5e1;
+    }
+
+    .update-time {
+      margin-top: 10px;
+      font-size: 13px;
+      color: #94a3b8;
+    }
+
+    nav {
+      background: white;
+      border-bottom: 1px solid #ddd;
+      position: sticky;
+      top: 0;
+      z-index: 10;
+    }
+
+    .nav-inner {
+      max-width: 1100px;
+      margin: auto;
+      display: flex;
+      overflow-x: auto;
+    }
+
+    nav a {
+      padding: 14px 18px;
+      color: #374151;
+      text-decoration: none;
+      white-space: nowrap;
+      font-weight: bold;
+    }
+
+    nav a:hover {
+      background: #f3f4f6;
+    }
+
+    main {
+      max-width: 1100px;
+      margin: 30px auto;
+      padding: 0 18px;
+    }
+
+    .page-title {
+      margin-bottom: 20px;
+    }
+
+    .page-title h2 {
+      margin: 0;
+      font-size: 24px;
+    }
+
+    .page-title p {
+      margin: 6px 0 0;
+      color: #6b7280;
+    }
+
+    /* トップニュース */
+
+    .top-news {
+      background: white;
+      padding: 24px;
+      border-radius: 14px;
+      margin-bottom: 25px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+    }
+
+    .top-news h2 {
+      margin: 0 0 15px;
+      font-size: 22px;
+      border-bottom: 3px solid #111827;
+      padding-bottom: 12px;
+    }
+
+    .top-article {
+      padding: 15px 5px;
+      border-bottom: 1px solid #e5e7eb;
+    }
+
+    .top-article:last-child {
+      border-bottom: none;
+    }
+
+    .top-category {
+      font-size: 13px;
+      color: #6b7280;
+      margin-bottom: 5px;
+      font-weight: bold;
+    }
+
+    .top-article a {
+      color: #1d4ed8;
+      font-weight: 700;
+      text-decoration: none;
+      line-height: 1.6;
+      font-size: 17px;
+    }
+
+    .top-article a:hover {
+      text-decoration: underline;
+    }
+
+    /* 検索 */
+
+    .search-box {
+      background: white;
+      padding: 18px;
+      border-radius: 14px;
+      margin-bottom: 25px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+    }
+
+    .search-box input {
+      width: 100%;
+      padding: 13px 16px;
+      border: 1px solid #d1d5db;
+      border-radius: 10px;
+      font-size: 16px;
+      outline: none;
+    }
+
+    .search-box input:focus {
+      border-color: #2563eb;
+    }
+
+    /* カテゴリー */
+
+    .category {
+      background: white;
+      margin-bottom: 28px;
+      padding: 24px;
+      border-radius: 14px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+    }
+
+    .category h2 {
+      margin: 0 0 15px;
+      padding-bottom: 12px;
+      border-bottom: 3px solid #111827;
+      font-size: 21px;
+    }
+
+    /* ニュース */
+
+    .news {
+      display: flex;
+      align-items: flex-start;
+      gap: 10px;
+      padding: 16px 4px;
+      border-bottom: 1px solid #e5e7eb;
+    }
+
+    .news:last-child {
+      border-bottom: none;
+    }
+
+    .news-content {
+      flex: 1;
+    }
+
+    .news a {
+      color: #1d4ed8;
+      font-weight: 600;
+      text-decoration: none;
+      line-height: 1.6;
+      font-size: 16px;
+    }
+
+    .news a:hover {
+      text-decoration: underline;
+    }
+
+    .news-number {
+      color: #9ca3af;
+      font-weight: bold;
+      min-width: 25px;
+    }
+
+    /* お気に入り */
+
+    .favorite {
+      border: none;
+      background: none;
+      font-size: 22px;
+      cursor: pointer;
+      padding: 0 5px;
+      line-height: 1;
+    }
+
+    .favorite:hover {
+      transform: scale(1.15);
+    }
+
+    .no-result {
+      color: #6b7280;
+      padding: 10px 0;
+    }
+
+    .error {
+      color: #dc2626;
+      background: white;
+      padding: 20px;
+      border-radius: 10px;
+    }
+
+    footer {
+      text-align: center;
+      color: #6b7280;
+      font-size: 13px;
+      padding: 30px 15px;
+    }
+
+    @media (max-width: 600px) {
+
+      header h1 {
+        font-size: 26px;
+      }
+
+      main {
+        margin-top: 20px;
+      }
+
+      .category,
+      .top-news {
+        padding: 18px;
+      }
+
+      .news a,
+      .top-article a {
+        font-size: 15px;
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+<header>
+  <div class="header-inner">
+    <h1>📰 MY NEWS</h1>
+    <p>自分専用ニュースダッシュボード</p>
+    <div class="update-time" id="update-time">
+      🕐 ニュースを確認中...
+    </div>
+  </div>
+</header>
+
+<nav>
+  <div class="nav-inner">
+    <a href="#top">🔥 トップ</a>
+    <a href="#日本">🇯🇵 日本</a>
+    <a href="#国際">🌏 国際</a>
+    <a href="#AI・IT">💻 AI・IT</a>
+    <a href="#教育">📚 教育</a>
+    <a href="#音楽">🎸 音楽</a>
+  </div>
+</nav>
+
+<main>
+
+  <div class="page-title">
+    <h2>今日のニュース</h2>
+    <p>気になるニュースを検索・お気に入り登録できます</p>
+  </div>
+
+  <!-- トップニュース -->
+
+  <section class="top-news" id="top">
+
+    <h2>🔥 トップニュース</h2>
+
+    <div id="top-news-container">
+      <p>ニュースを読み込んでいます...</p>
+    </div>
+
+  </section>
+
+  <!-- 検索 -->
+
+  <div class="search-box">
+
+    <input
+      type="text"
+      id="search"
+      placeholder="🔎 ニュースを検索..."
+    >
+
+  </div>
+
+  <!-- カテゴリー -->
+
+  <div id="news-container">
+
+    <p>ニュースを読み込んでいます...</p>
+
+  </div>
+
+</main>
+
+<footer>
+  MY NEWS
+</footer>
+
+<script>
+
+let allNews = {};
+
+let favorites =
+  JSON.parse(
+    localStorage.getItem("myNewsFavorites") || "[]"
+  );
+
+const icons = {
+
+  "日本": "🇯🇵",
+  "国際": "🌏",
+  "AI・IT": "💻",
+  "教育": "📚",
+  "音楽": "🎸"
+
+};
+
+
+async function loadNews() {
+
+  try {
+
+    const response =
+      await fetch("news.json");
+
+    if (!response.ok) {
+
+      throw new Error(
+        "news.jsonを取得できませんでした"
+      );
+
+    }
+
+    allNews =
+      await response.json();
+
+    /*
+      更新時刻を表示
+    */
+
+    const now = new Date();
+
+    const formattedTime =
+      now.toLocaleString(
+        "ja-JP",
+        {
+          year: "numeric",
+          month: "2-digit",
+          day: "2-digit",
+          hour: "2-digit",
+          minute: "2-digit"
+        }
+      );
+
+    document.getElementById(
+      "update-time"
+    ).textContent =
+      `🕐 最終確認: ${formattedTime}`;
+
+
+    displayTopNews();
+
+    displayNews();
+
+
+  } catch (error) {
+
+    console.error(error);
+
+    document.getElementById(
+      "news-container"
+    ).innerHTML =
+      '<p class="error">ニュースを読み込めませんでした。</p>';
+
+  }
+
 }
 
-body {
-    margin: 0;
-    font-family:
-        -apple-system,
-        BlinkMacSystemFont,
-        "Segoe UI",
-        "Noto Sans JP",
-        sans-serif;
-    background:
-       
+
+/*
+  トップニュース
+*/
+
+function displayTopNews() {
+
+  const container =
+    document.getElementById(
+      "top-news-container"
+    );
+
+  container.innerHTML = "";
+
+
+  for (
+    const [category, articles]
+    of Object.entries(allNews)
+  ) {
+
+    if (!articles || articles.length === 0) {
+      continue;
+    }
+
+    const article =
+      articles[0];
+
+
+    const div =
+      document.createElement("div");
+
+    div.className =
+      "top-article";
+
+
+    const categoryLabel =
+      document.createElement("div");
+
+    categoryLabel.className =
+      "top-category";
+
+    categoryLabel.textContent =
+      `${icons[category] || "📰"} ${category}`;
+
+    div.appendChild(
+      categoryLabel
+    );
+
+
+    const link =
+      document.createElement("a");
+
+    link.href =
+      article.url;
+
+    link.textContent =
+      article.title;
+
+    link.target =
+      "_blank";
+
+    link.rel =
+      "noopener noreferrer";
+
+
+    div.appendChild(link);
+
+    container.appendChild(div);
+
+  }
+
+}
+
+
+/*
+  通常ニュース
+*/
+
+function displayNews() {
+
+  const container =
+    document.getElementById(
+      "news-container"
+    );
+
+  const searchWord =
+    document
+      .getElementById("search")
+      .value
+      .toLowerCase()
+      .trim();
+
+
+  container.innerHTML = "";
+
+
+  for (
+    const [category, articles]
+    of Object.entries(allNews)
+  ) {
+
+    const filteredArticles =
+      articles.filter(article =>
+        article.title
+          .toLowerCase()
+          .includes(searchWord)
+      );
+
+
+    const section =
+      document.createElement("section");
+
+    section.className =
+      "category";
+
+    section.id =
+      category;
+
+
+    const heading =
+      document.createElement("h2");
+
+    heading.textContent =
+      `${icons[category] || "📰"} ${category}`;
+
+    section.appendChild(
+      heading
+    );
+
+
+    if (
+      filteredArticles.length === 0
+    ) {
+
+      const message =
+        document.createElement("p");
+
+      message.className =
+        "no-result";
+
+      message.textContent =
+        searchWord
+          ? "検索結果がありません。"
+          : "ニュースがありません。";
+
+      section.appendChild(
+        message
+      );
+
+
+    } else {
+
+      filteredArticles.forEach(
+        (article, index) => {
+
+          const div =
+            document.createElement("div");
+
+          div.className =
+            "news";
+
+
+          const number =
+            document.createElement("span");
+
+          number.className =
+            "news-number";
+
+          number.textContent =
+            `${index + 1}.`;
+
+
+          const content =
+            document.createElement("div");
+
+          content.className =
+            "news-content";
+
+
+          const link =
+            document.createElement("a");
+
+          link.href =
+            article.url;
+
+          link.textContent =
+            article.title;
+
+          link.target =
+            "_blank";
+
+          link.rel =
+            "noopener noreferrer";
+
+
+          content.appendChild(
+            link
+          );
+
+
+          const favoriteButton =
+            document.createElement("button");
+
+          favoriteButton.className =
+            "favorite";
+
+
+          const isFavorite =
+            favorites.some(
+              item =>
+                item.url === article.url
+            );
+
+
+          favoriteButton.textContent =
+            isFavorite
+              ? "⭐"
+              : "☆";
+
+
+          favoriteButton.title =
+            isFavorite
+              ? "お気に入りから削除"
+              : "お気に入りに追加";
+
+
+          favoriteButton.onclick =
+            () => {
+
+              toggleFavorite(article);
+
+            };
+
+
+          div.appendChild(
+            number
+          );
+
+          div.appendChild(
+            content
+          );
+
+          div.appendChild(
+            favoriteButton
+          );
+
+
+          section.appendChild(
+            div
+          );
+
+        }
+      );
+
+    }
+
+
+    container.appendChild(
+      section
+    );
+
+  }
+
+}
+
+
+/*
+  お気に入り切り替え
+*/
+
+function toggleFavorite(article) {
+
+  const index =
+    favorites.findIndex(
+      item =>
+        item.url === article.url
+    );
+
+
+  if (index >= 0) {
+
+    favorites.splice(
+      index,
+      1
+    );
+
+  } else {
+
+    favorites.push(
+      article
+    );
+
+  }
+
+
+  localStorage.setItem(
+    "myNewsFavorites",
+    JSON.stringify(
+      favorites
+    )
+  );
+
+
+  displayNews();
+
+}
+
+
+/*
+  検索
+*/
+
+document
+  .getElementById("search")
+  .addEventListener(
+    "input",
+    displayNews
+  );
+
+
+/*
+  起動
+*/
+
+loadNews();
+
+</script>
+
+</body>
+</html>
