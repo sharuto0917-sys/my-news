@@ -1,10 +1,165 @@
 {
-  "日本": [],
-  "国際": [],
-  "AI・IT": [],
-  "教育": [],
-  "音楽": [],
+  "日本": [
+    {
+      "title": "サウジアラビアの東西パイプラインが攻撃を受け操業を一時停止、イラクの親イラン勢力が関与か - 読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBYVXBpVmtJRVpSeUlqaUxXMjRCWWVJdXhWMGtoRkUyTlF5a0RDaGFVMGY5V1FyQ3RmNUtJRHZPNk1NUVJ0em9FcVY4c1V0eXpIclZDR1U0TGxSSmNmeHRBbDZ3?oc=5",
+      "published": "Sat, 12 Sep 2026 12:22:00 GMT",
+      "source": "読売新聞"
+    },
+    {
+      "title": "沖縄県知事選挙13日投開票 継続か交代か、各陣営が最後の訴え - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0a2c4aGJ0TjNkemF5Qi1hYWJHRmVWOGxzbUxYNFZNQWJ6R0tEOS1lUlBOcHVOTnRLTlgzTVczVnU1SzhxMmVucGNpaUZlV0g5c1BsY1d3S2djX0RHM083U2YwZFE5NUlyOF96bA?oc=5",
+      "published": "Sat, 12 Sep 2026 10:35:00 GMT",
+      "source": "日本経済新聞"
+    },
+    {
+      "title": "熊本地震でＳＮＳに根拠なき情報「炊き出しでイスラム教徒に配慮」…食事提供の自治体は「宗教的対応していない」 - 読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBhMkJHZTIySkZmc3RraVJtcTZZZk1rSzZOck0wcnlFVnUtSmJBQjVSbERseEVWVnpVTDNYRUY1TngydS1JbnNPVmFnaktncHRnNTh6V3VYaUdCSFZ1NjdJYWF2SVEzdw?oc=5",
+      "published": "Sat, 12 Sep 2026 13:54:00 GMT",
+      "source": "読売新聞"
+    },
+    {
+      "title": "「大規模な噴火に繋がるおそれ」 北海道・十勝岳 噴火警戒レベル3「入山規制」に引き上げ 上富良野町で避難指示や5.6kmにわたり通行止めも - newsdig.tbs.co.jp",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE94LVA3NDV5WVVvSFRVTFFEZ3c3dzc5WkdacWpFU0ZqbkpCVmVFeG5PN0tTVVlZSjlqZ0hmSnRFZkhjb3p2OGZUaUlKaU9JVXZZOThMWlVtYw?oc=5",
+      "published": "Sat, 12 Sep 2026 08:45:45 GMT",
+      "source": "newsdig.tbs.co.jp"
+    },
+    {
+      "title": "相模原17歳死亡〉「難癖をつけ、金を要求したとの話も…」地元の同世代が怯える少年グループの素性、4人のうち3人は別の監禁事件で逮捕（集英社オンライン - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tUHd4OWE0WXlPc2FDay1Gc3VXNHhNeHIyZ3FvYjFEdUVlSmdVRzBMa0xOR1pocVNQWUtsWHprR0hIeEIzZGpsQ3hQdWN3NHd1cHFsQU9WZUNJWWhCbU94aFdJYXpYMUZraHM4bkc1TzBPRjhLMzk1VGZ4bldOX0E?oc=5",
+      "published": "Sat, 12 Sep 2026 08:51:17 GMT",
+      "source": "Yahoo!ニュース"
+    }
+  ],
+  "国際": [
+    {
+      "title": "サウジアラビアの東西パイプラインが攻撃を受け操業を一時停止、イラクの親イラン勢力が関与か - 読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBYVXBpVmtJRVpSeUlqaUxXMjRCWWVJdXhWMGtoRkUyTlF5a0RDaGFVMGY5V1FyQ3RmNUtJRHZPNk1NUVJ0em9FcVY4c1V0eXpIclZDR1U0TGxSSmNmeHRBbDZ3?oc=5",
+      "published": "Sat, 12 Sep 2026 12:22:00 GMT",
+      "source": "読売新聞"
+    },
+    {
+      "title": "中国とインド、国境問題解決へ努力 首脳会談で経済協力探る - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBjLVhhTU1EN014blhtVkFpMXdtc0dzVjNpdXNQZV9CZC15V25wSUZFYWgtbkZZYzZxTENYYS1FT1IyaDduRWZZSXRQWGFWbnpMbDdTS2VoX2N4Q3c1b2ZsWHg1OTljU0EwVzFBUQ?oc=5",
+      "published": "Sat, 12 Sep 2026 08:08:32 GMT",
+      "source": "日本経済新聞"
+    },
+    {
+      "title": "「トランプ後継」バンス氏に注目 対抗馬ルビオ氏は欠席―米共和党大会 - 時事ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBodUloM293Yi1KYzZGTkhFcjVhcGpQcTFHVlcxeENtOW9JdVZWZVdLTW5WemJZV2dZeF9HQ3pvM2xhREFGV2QtZkwzeVI4Qm45VlU2SGE3aW5pRTlHczdsc0g3RQ?oc=5",
+      "published": "Fri, 11 Sep 2026 22:08:00 GMT",
+      "source": "時事ドットコム"
+    },
+    {
+      "title": "北朝鮮が弾道ミサイル数発を発射 韓国軍 日米韓訓練をめぐり事前警告 - テレ朝NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE55YXVTVVhSZElNc2pIbTBtQ2VkVHptM3ctLUg5cENObWRuenludzVRYnlYeC1zc1FDUks1ZHBHTl9ra0NuUDFJS3ZCNUJ3dktfN29zbE5CbDlIWDFJc2lTN29ja282c2RTdlZCbmFHc0NVeFhfbXh4b2ZR?oc=5",
+      "published": "Fri, 11 Sep 2026 23:34:24 GMT",
+      "source": "テレ朝NEWS"
+    },
+    {
+      "title": "フィリピン沖のフェリー炎上事故、死者は７６人に…鎮火した船内から遺体発見・不明１０人以上 - 読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9RTi1DYVd1LTFyNWR5ZlRGNnl6THJjaWV5V0k3ZzgxYkxnTFVXN0NfV3dyM3dIVko1ZmVQQnZXUmpGbERhcE5LQi1qbE12VUo5TEtCYnZZS1VFQ0syZWo2S0dR?oc=5",
+      "published": "Sat, 12 Sep 2026 15:07:00 GMT",
+      "source": "読売新聞"
+    }
+  ],
+  "AI・IT": [
+    {
+      "title": "業務の30％をAIエージェントがこなすIT運用部門、なぜ「パワポ文書」を禁止したのか？ - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBjY25LWUMwbEZJRGpCNTdMMm1wRXpsZjNIS0xlUkEwbGswaXpjcXZLQmVUbDBadmlyZXZUMTN5RHR6LVBsZFRMXzUxemM0VXl2OHFMTlRWeGVZb0dXY3NCYmNLWUJXd0x0YVJHdzhiWjBJSkxs?oc=5",
+      "published": "Thu, 10 Sep 2026 23:00:00 GMT",
+      "source": "ITmedia"
+    },
+    {
+      "title": "「デジタル化・AI 導入補助金」（旧：IT導入補助金）におけるIT導入支援事業者の登録取消 - 創業手帳株式会社",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBuaWtDR2hmR2RZQS1rQjRjMkI0bEVvQ0xQRzdEOEtNSm5FSzN6aDV0NFNveFotbEpsVDBsUUtZNFYzaEhHd25VRXUtaDFSOXBPVzdfZHFHRkVvQQ?oc=5",
+      "published": "Fri, 11 Sep 2026 08:48:22 GMT",
+      "source": "創業手帳株式会社"
+    },
+    {
+      "title": "(3/3)AIエージェントの“暴走”をどう防ぐ？ ガートナーが示すセキュリティ「6つの要点」 - ビジネス+IT",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1IVlV1NmdORGhyV2RBcENGY3A3OEJRWWQzeEFlRjh2akJMRDhFMnNQZGdrM3loZ3oyZDV1bDB5enA5TGNjbFJucmtfQ1J3ZFg1ODg4eE9MWWJlSWxX?oc=5",
+      "published": "Thu, 10 Sep 2026 21:10:00 GMT",
+      "source": "ビジネス+IT"
+    },
+    {
+      "title": "【IT業界の5年後大予測】富士通・NEC・野村総研…生成AIで始まった選別のカウントダウン、生き残りのための「4つの条件」と本命銘柄を大解剖《再配信》 - ダイヤモンド・オンライン",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBMcVdsVFBvYTZXelZDMWtfd2JDaW91TXp1aUFMZlVSaXNJZ2RucGxhekhCMFZjQ0NZTmh1LUc2QXl3WHlrLUlPdkdialbSAU9BVV95cUxOLTlXSWFUMFE5VUpFNDNNYUZoN3lsazlFeXJRcUdCOHJYSHhaNGU0Z1ZEMURUa1pzRXBCdmdqaE1OTFZERUJycFV1eXVnSkpV?oc=5",
+      "published": "Thu, 10 Sep 2026 19:00:00 GMT",
+      "source": "ダイヤモンド・オンライン"
+    },
+    {
+      "title": "現在無料で提供されている注目のITエンジニア向け講座5選 - codezine.jp",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81cXpRc2NONkFDNWFaX2lFcFNSWEJZTE90SFpscE1zNE15aTdrcHppX2xmOG1hUDBVMkNVWG1GbzVsdE5UNjlnUk83YTg1SjBaSnc?oc=5",
+      "published": "Thu, 10 Sep 2026 00:00:00 GMT",
+      "source": "codezine.jp"
+    }
+  ],
+  "教育": [
+    {
+      "title": "学力面にとどまらない強み 海外が注目する日本型教育の「人間形成」 - 教育新聞",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9falZQTVZrLWhNcVdXWnA3T2QzVXRYaGwtWmx0OGV6cHppVEV6Tl82MlliZV9yNW80RmVjRmxxQmh3T0V3OHNJWlVzSERlYlZIZENsNEdB?oc=5",
+      "published": "Wed, 09 Sep 2026 11:55:00 GMT",
+      "source": "教育新聞"
+    },
+    {
+      "title": "「生徒のために試合会場へ送る」で広島県教育委員会が戒告の理不尽～教員「他に移動手段がなかった」 #エキスパートトピ - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcHVzNklLTFE3UXExc0ZKbE5LT1o5dE14OXpYWXlxUXoyU3RmRlZURFoxUV9BT0VSdzZjMWRnVERVS2hBaks2WllJTWF2Mkdzd2hOUXRjZGJPdDYxVVNjaTVxZVFfZFZFYVJtNXkyVUtFZ2FneFRQdXNZTm5QUkh0dV9sakZXOEFx?oc=5",
+      "published": "Sat, 12 Sep 2026 06:32:36 GMT",
+      "source": "Yahoo!ニュース"
+    },
+    {
+      "title": "小学生のChatGPTや生成AI頼みの教育は脳に大きな打撃?森本真理子と内田伸子が考える親子のAI活用 宿題や読書感想文で思考力を育てる家庭の学び方 - #アベプラ【平日よる9時~生放送】 - 企画 (ニュース) | 無料動画・見逃し配信を見るなら - ABEMA",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGbkc2N3A5cm1BcUJ4bXgzZWIzNnhHR2NhTHpCbEhaQ2lEQlMya29qUGw5NFdhQzJLVHlacFV4NGxlcUVIb2ZPV1FZMUNRTDd0Yk5IWVU5S3MzQQ?oc=5",
+      "published": "Sat, 12 Sep 2026 02:21:30 GMT",
+      "source": "ABEMA"
+    },
+    {
+      "title": "＜論点＞これからの日本の平和教育を探る...「戦争の悲惨さ」（反戦平和）だけでは達成されないのはなぜ？ 平和教育に必要な視点 - Wedge ONLINE(ウェッジ・オンライン)",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFByNC1NQk5fbWIwOHBvNkZhY0RrRmlmZzl0RXJ4RWxQa3pVdzZlQjhDd2pMeVpRZGhiWldPYVFWdVdMSEQ0bExLb2FZWWNac0ZiTWpsNmFtTWNlX2hY?oc=5",
+      "published": "Fri, 11 Sep 2026 03:15:00 GMT",
+      "source": "Wedge ONLINE(ウェッジ・オンライン)"
+    },
+    {
+      "title": "「専門高校の機能強化・高度化」など施策の中核に 栃木県教委、高校教育改革の構想示す - 下野新聞社",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1RSlM4dmNNaGdnYVV3aFV0NkJ4eW9LNGIyT0NzblYyY0xpN2Y1aktjUkJLOXR1XzBaVk5mRnRFNXdTQ0tRT2c5WGVHYU1kdy1mQmRBaXVyX0x5Rk0?oc=5",
+      "published": "Sat, 12 Sep 2026 02:31:39 GMT",
+      "source": "下野新聞社"
+    }
+  ],
+  "音楽": [
+    {
+      "title": "桑田佳祐が“約束の地”で音楽に託した日本中へのエール、古希を迎えて挑んだ夏祭りツアー千秋楽（ライブレポート） - ナタリー",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9wb2ZtSk9tODhNZGprcXFCMmpZRXo0QnFCbHFMbFdTWmpHbnU5RlFsY1puX2JEZU9zZGE1bjlvbnpIVUpKVmJNMHJ6bWg?oc=5",
+      "published": "Sat, 12 Sep 2026 12:43:00 GMT",
+      "source": "ナタリー"
+    },
+    {
+      "title": "音楽生成AI「YuE2」が無料公開される、有料のSuno 5に近い性能で楽譜から楽曲生成可能＆日本語ボーカルも対応 - GIGAZINE",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xSDY0dURjNVlkZ0UyZFlYOG80U3pGSElOcFNVRDJveW4taFZVTmthU1FoODdJOWRacmVvQ052cEI0LWh6UkQ4MEdWbkJTbE95aDJKOXhOUHRJY0lQSFY3QTNITlNLa0JNejRoXw?oc=5",
+      "published": "Fri, 11 Sep 2026 12:00:00 GMT",
+      "source": "GIGAZINE"
+    },
+    {
+      "title": "CYNHN・かりゆし58・a flood of circleが登場！ - TVer",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5vTkdwdzgxU3VzVXVKYVhwT0JUSndXRExkVVZhb1dGdDNFUHZlVVljbWZjMlNTQzI4VGg5d1E4VGswRE5nU0lUME1kTQ?oc=5",
+      "published": "Sat, 12 Sep 2026 03:35:43 GMT",
+      "source": "TVer"
+    },
+    {
+      "title": "仙台の街が音楽に染まる「定禅寺ジャズフェス」開幕＜宮城＞（ミヤギテレビ） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zclRiQjhQaG90R3J5bVM1M0JmZ2ZZbnBJZE1CakZBX1Rna0c3MlBDVVVyUnVXd3Y4QjlrZ19wRDVHSlRMY0pRYW04SmdTSXhGOUJ6azgxamNLb1Y2czlOSkh1eFE5Y0tfYWExdG82b0I0TUF6eXFwVzVlQTNSb28?oc=5",
+      "published": "Sat, 12 Sep 2026 08:36:00 GMT",
+      "source": "Yahoo!ニュース"
+    },
+    {
+      "title": "杜の都、音楽に包まれ 仙台でストリートジャズフェスティバル - 毎日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9vN2tHb1gyMk9tN2NJWEpJdnk1cGdNSFFxbk5TNVYzd0lYdDg3aURGR1JVWWViR1dKMnhxT21ibng4eVlXZlB4MnNOOEpuRDNCMVIzVUVfRFBuYXJsaG9ZbXJrcHZXT0J6?oc=5",
+      "published": "Sat, 12 Sep 2026 08:52:01 GMT",
+      "source": "毎日新聞"
+    }
+  ],
   "_meta": {
-    "updated_at": "2026-09-12T17:06:01.587296+00:00"
+    "updated_at": "2026-09-12T18:06:28.994066+00:00"
   }
 }
