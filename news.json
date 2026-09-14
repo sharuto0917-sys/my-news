@@ -1,10 +1,165 @@
 {
-  "日本": [],
-  "国際": [],
-  "AI・IT": [],
-  "教育": [],
-  "音楽": [],
+  "日本": [
+    {
+      "title": "１５万票差つけられた玉城デニーさん、登庁せず会議も欠席…陣営「本人の勝てる感覚と実態に差があった」 - 読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBLbjBybUlJSktwb2lWTTMwbG5SOUlJZlpibmNFRlpWT0Mxc2IyMUNYc2pURzNfLUNsOVdzQ0R2Q0pwN0hfU09SN3pYUVFRRWNfaEg4eU4tRjEydThMRHVWMHJ5WWRLdw?oc=5",
+      "published": "Mon, 14 Sep 2026 04:07:00 GMT",
+      "source": "読売新聞"
+    },
+    {
+      "title": "ホルムズ海峡船舶とサウジに新たな攻撃、石油供給の混乱深刻化 - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeVFIMmhQQ2Fvc2dpTlUtOC1ObDR2dnVNZmRYZTJ0TFJTT3VRWS1jejVtanV6M0dIczVQQ05zSGJlRzlCNTB2T0JCNHNrcVpDRUpYRVk1SmRPNWx3UFlKUUUtSno5VHcyMmZCXzZIX2pvamUtY1VGVVVVNkZuem0xLVNHaUhCQQ?oc=5",
+      "published": "Sun, 13 Sep 2026 22:04:00 GMT",
+      "source": "Reuters"
+    },
+    {
+      "title": "維新・中司幹事長の入閣で最終調整 行政改革・規制改革担当相が有力視 - 産経ニュース",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ZVERGLU9rcW5IMXlwcE5tQmFwYjU4MWxDQl9QdS1oX1dwYXh2a010NnFfMUhyc0ltUHlrWWxJRGt6V1Q5a0dQdE1NeU9BaWFuOElUVGVRT2dEVkZtOE84Y2FTUW4wNUZYVlV3NER1ZklZNlR1M0E?oc=5",
+      "published": "Sun, 13 Sep 2026 23:08:16 GMT",
+      "source": "産経ニュース"
+    },
+    {
+      "title": "トランプ米大統領、ウクライナにロシア燃料インフラへの攻撃停止を要求（ロイター） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GdnRCTEhwUFlJejlLeEZ6SkZGTVVGUUVkSkwyLTNQMndmamMzSlhEajAwMmU3NTZuajQ4aGdSbWc5SWdIbkFRQWxUN0tIUWsxZU41cnpmWXVZaXMwWG9qUUVmUHozYkR0cDhZVWRCb0puZjl6bHEtQjR1Tld5OVk?oc=5",
+      "published": "Sun, 13 Sep 2026 22:56:23 GMT",
+      "source": "Yahoo!ニュース"
+    },
+    {
+      "title": "マクロスコープ：高市首相「国債40兆円」発言、政府与党内に危惧の声 軌道修正も - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOY2xRcnRNV3dkaDZTSXhTQzgwODVlbGNZMlFnbzluNUNkMmFOZmdsVmtSU0dXbkQyU3pDTC10OWc1bU5vWjQ0bzZrNW5NTXlJcWxkc2pTc3pQVDgtUDlqOF9zczZiV3pnaXBBRWtoVmFsdnBQOGxTTjJGVTJXODVzMkpn?oc=5",
+      "published": "Mon, 14 Sep 2026 03:53:00 GMT",
+      "source": "Reuters"
+    }
+  ],
+  "国際": [
+    {
+      "title": "トランプ氏、5000ドル配当は財政面で容易と強調 民主党は一斉批判 - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5UOGdiUXRFcXR2NG5ncFg3Y3ZtSjBtd0JET09lb2tOWUhhWklTZ2NxRUgxM3lrNGVENXJTeTZlVnBkZTJNYUlKeVFiaTh5R1NnbGhtUGxPeXZYTlMtUHZKNzFPVGY4X2hDSG9zMG5uTVRpbDlOZzBmeUpDRU9LZw?oc=5",
+      "published": "Sun, 13 Sep 2026 22:36:40 GMT",
+      "source": "Reuters"
+    },
+    {
+      "title": "イエメン政権側500人死亡 フーシ派と戦闘、避難民8万人超 - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9lS29IZk5IR1VnYy1veUhVOUc4ckt1WFEyUms5bUlJb1NzN1NBMjFYVVZzSUNrbm9QdVZzTUp5b2dZMnRFVEFjaWUwUjBQSlctVUQzRDJpWk1sQnRYVllDbVZfYW5yZVpoT2ZSSg?oc=5",
+      "published": "Mon, 14 Sep 2026 00:25:23 GMT",
+      "source": "日本経済新聞"
+    },
+    {
+      "title": "ポーランド国境で列車攻撃 ロシア軍、直前まで元CIA長官ら、外交団標的の可能性も - 産経ニュース",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5xSmljS1BaOTVvY19HV3JpRnVFSGFrMEZPM0FYVE5CZVBmeTItOXd0OVBwRlE1QzhRSzJ2U1NnWWpGbEVkelNQamd2YjJNdjRNLVF4ZldmeEJra3FxVXQ4NVBIZFZzWjh4RndLNmI2UXRFOXlZNWc?oc=5",
+      "published": "Sun, 13 Sep 2026 21:50:30 GMT",
+      "source": "産経ニュース"
+    },
+    {
+      "title": "トランプ氏、ゼレンスキー氏にロシア製油所攻撃停止を要求-軽油高で（TBS CROSS DIG with Bloomberg） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5PU2pKeWZ4TGM1cUlyMzFxbHAydzRNTE5Ed1ZHU1BteWpuSDZqYkJVYXBQWkM1UmMtWWFUa0dzQ3YydVZOSTJDVGVvd25USEd2dDBpTXM3aXd0NWNzSURNc0NyWnd6WHdfcy1rSUhqTlZJZHh4MVUyMnlPNUxRU0E?oc=5",
+      "published": "Mon, 14 Sep 2026 00:32:14 GMT",
+      "source": "Yahoo!ニュース"
+    },
+    {
+      "title": "インドネシアでフェリー転覆、１００人以上救助も６人死亡・１３０人行方不明…日本人の被害情報なし - 読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9LX2dlSmQwbW9RTXYwTktmb3BwSFloTGJEbFN3WWVoa0ozQXhrX0NwU3BsNDRsM003dFNDZUdGN3N4TE9QMVRRc2Q3YUxJUHFKQWlKVEs0ckxHdm9rNlFSRldB?oc=5",
+      "published": "Sun, 13 Sep 2026 10:14:00 GMT",
+      "source": "読売新聞"
+    }
+  ],
+  "AI・IT": [
+    {
+      "title": "AIデバイドの敗者となる日本企業、40年以上も変革をサボった報いは残酷だ（2ページ目） - 日経クロステック",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8zX05UTmtHZ2VuTlcxeVFSelVZNTFid3MwcHVPQ1hsazFFZXluUjhjcmd3aHRRckNacDY2TzdMSEpZZktFdzB2SlJTV3Bua1RWemxBS2k3NWFGVHBGZzBKUGY3Z3l1OFlxNFdqbmY0MGNIdw?oc=5",
+      "published": "Sun, 13 Sep 2026 20:00:00 GMT",
+      "source": "日経クロステック"
+    },
+    {
+      "title": "“最強エージェント”は、まさかのポンコツだった 業務の30％をAIに任せるIT運用部門が明かす「つまずきポイント」 - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBxaWlOSTFOX2Q2RVJuQkt3a1EwNG5ORlo4cERFTFlNU0dUdy15MFdCbjJmMTlEdTlIZUtSWnlUVE1CSUtUR0c3a2F4dTNyVjBRUzJXZXJjSTVSdkp2a3lHb3V6OENvWVhYeWpNZkFhcUR6Wkl2?oc=5",
+      "published": "Sun, 13 Sep 2026 23:00:00 GMT",
+      "source": "ITmedia"
+    },
+    {
+      "title": "採用×AIは「効率化」から「育成・還元」へ。エーピーコミュニケーションズ、ITエンジニア採用のプロの知見が詰まった就活生向け伴走型AI「AIメンターコヤマさん」を公開 - 時事ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9KbGxCYVJGWVBaTUtBeWpBU1FjV2FYd3V1RHFkcDludEFDY1dZVW1OMVNma0hGWUl5TkRMSW9QV1A0MVZuMURvT0dHRUxkTDBmcS1tejBFWFhIbWZSMmlCX3VVLXBmTDk1dnBV?oc=5",
+      "published": "Mon, 14 Sep 2026 02:16:00 GMT",
+      "source": "時事ドットコム"
+    },
+    {
+      "title": "AIエージェント量産＝マルウェア量産？約6割が「対策迷子」、押さえるべき6つの防御策 - ビジネス+IT",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBsSERyeVlXalplN3l4VXg3eFNGOU9vNjlNM0E3QVNyT3czZFg5MlpVd0hxbjBmSEo2aFl2S3gyOEZNc19ET3lHU1ZsNFFXRklfc3hz?oc=5",
+      "published": "Mon, 14 Sep 2026 05:14:10 GMT",
+      "source": "ビジネス+IT"
+    },
+    {
+      "title": "写真から税番を判定、フォークリフトは自律走行へ NECの物流AIを見てきた - news.mynavi.jp",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBLVjhPNG1GRXFXNEE2Z0pHMnpYeVVaVERrZGYxcERWOS0zbFZ5THppZU9Hd0VaZjk1X0Y2ekNUNGhmY2RsamtHX0ZUckhpNzJxY1E4aDNTVVZqZnZqNUhneXExRktWdTRW?oc=5",
+      "published": "Sun, 13 Sep 2026 23:05:29 GMT",
+      "source": "news.mynavi.jp"
+    }
+  ],
+  "教育": [
+    {
+      "title": "学校教育法違反容疑で朝鮮学校を書類送検、愛知県警 「幼稚園」と不正表記、容疑認める（産経新聞） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KbTJFM2VKU1hZWS14NVlQYS1LMzdJMjN6SkxJNlJwRzRuVmVBdzRfRTl0UHQ4Z1dkWlhlRGk1bzlhMTNfYjRoQzVlaEthT2dUTEtjNExxY3Q0QlZkSkdsUnlQLXNHNnRnVW9HaUtSQnBWcEtaaWFfUzdxalE2YVU?oc=5",
+      "published": "Mon, 14 Sep 2026 06:40:49 GMT",
+      "source": "Yahoo!ニュース"
+    },
+    {
+      "title": "カリフラワーを育てよう！上越教育大学附属小3年生が苗植え - 上越妙高タウン情報",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TaDdhcnBqRHhjSmJEb25mamtLdXl3LXNrZFktUFFkTWhEdk1hU3E1S3A3aVEtWWZhX3lCM3VBb3lsUlc4dnpmcS1BdWM4bUhQT0Z6OUh3?oc=5",
+      "published": "Sun, 13 Sep 2026 19:02:08 GMT",
+      "source": "上越妙高タウン情報"
+    },
+    {
+      "title": "NTT西日本、立命館と教育向け生成AI 学びの振り返りを支援 - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE81WExaYVJMaDZkcWRQdEFVZEc0ZWNfZUs2N1pBQTdTcmNyak9Jdk1fWENUZ29EVXFtNmZIRzMxTlJWRlhBR2libEJvcUY2RlF4QzBRUFNPTV82bGtpbXFJdnBIY2tRZjVLbmN3bw?oc=5",
+      "published": "Mon, 14 Sep 2026 05:49:37 GMT",
+      "source": "日本経済新聞"
+    },
+    {
+      "title": "【解説】詰め込み型・ゆとり教育…日本の授業の変遷 時代とともに変わる教育基準、10年ぶり改訂へ『バンキシャ！』 - news.ntv.co.jp",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5RYTRSTmxNb1JoMzdwRzdwQVcwRlZlYlpCcUNhN2RpUWpUTU40MXpmMzhVVHdERTBSVGxXZ1EtRExSdUEzX2VQV2tyTmw5Ujd0VE1aUDE0d1lIZ2hrdkhBU0FxTnI5QV9yRXdNUkdreEhKVWNybTBBRENnSzQ?oc=5",
+      "published": "Sun, 13 Sep 2026 15:01:00 GMT",
+      "source": "news.ntv.co.jp"
+    },
+    {
+      "title": "「正解」の「楽しくなさ」 ニューヨークの教育現場におけるAI禁止措置を考える - 東京新聞",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5vRUNHY1lJOU9xU1MybmstQTVHelpQcEZ1YTNDQXZsT2tzdE1GdWdvZ0pzcUEzVVktbTl2NUh3Yy1tUG4xWlhmTlNQVUhLb0E5VEt3?oc=5",
+      "published": "Sun, 13 Sep 2026 20:00:00 GMT",
+      "source": "東京新聞"
+    }
+  ],
+  "音楽": [
+    {
+      "title": "CD販売枚数が急増…でも音楽聴くためでないという現実 - Gizmodo",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBiTlVzRTZVVEV1Vlg0TmxORURYV1FhMDJiZ0plWWUwS1FSNlFDSnNReUFfUGMxcWNwdFo1THZZZVJHZjEzNkN3akRFcm9FVGlfY3JTZG9UTzI0ZGp1TGhGMVY4N1AwSWthNFM1cVI2X3Y?oc=5",
+      "published": "Mon, 14 Sep 2026 02:00:00 GMT",
+      "source": "Gizmodo"
+    },
+    {
+      "title": "ミュンヘン国際音楽コンクール、「カルテット風雅」が弦楽四重奏部門で３位入賞…落合真子さん「参加で大きく成長できた」 - 読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBtODZNMHA5MDBNUm1JcHA1dzlFdHc4WWIxWHMwYllGYXNuV3lSU2M1bnVra2FHd0poNDNDNEZ2aS1fTi10aVFZSkJjd1ptMDNTSk14a1owSDQ1ZFNhSVM1Z0xpV0RYQzhwd1dFUg?oc=5",
+      "published": "Sun, 13 Sep 2026 00:30:00 GMT",
+      "source": "読売新聞"
+    },
+    {
+      "title": "氷川きよし 音楽活動の原点は超大物歌手 5歳でライブへ「あまりにも凄くて」 カバーし手紙のやりとりも（スポニチアネックス） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43Z1pDOGVUZ09ZWkRwenBoR1VuVFpFUzVTaDVYVnY1OVhfQk5hT0o0TFJTbWgwZ1NSTWlCSVlEUnREZWtQNVkwVk4xUm1SUW13Z1p1Q2RvX3Fta2VlWFJvbmhxX3F0aS1MVDhBbG15c0U2OElSYWdYVElOUndYMDQ?oc=5",
+      "published": "Mon, 14 Sep 2026 06:30:55 GMT",
+      "source": "Yahoo!ニュース"
+    },
+    {
+      "title": "エースコンバットシリーズ音楽作品を9月より連続配信！ - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pU3lfeGxOUlM2UVp4Y2FVaDVyeFRVYmV3aXZaTUR0U2pWbE9iN1ZzTExaNUlURC1VbFFXWjVMWTVibzE5NGJzTFI3SW1VMEt0RE43S0QwbmRNSHp6d1lvaG9tb3BmMWRGcnc?oc=5",
+      "published": "Mon, 14 Sep 2026 06:30:01 GMT",
+      "source": "PR TIMES"
+    },
+    {
+      "title": "平原綾香が歴史ある神社で名曲を歌い紡ぐ日本を代表する寺社仏閣を舞台にした音楽番組「SONGSCAPE ― 歌が描く日本の情景 ―」9月17日（木）よりLeminoにて独占配信決定！ - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5md0tYeHFMRXZQbWF5Q3Q2RGZLYmpvS25zTjNWSXI0X0RZRXdxMWdVd3ZuTzhOaV9kNzMtMUphRS1sQmJKQXhfTXJ2TmhQU0JSRVBqM2hkZGo1aU5hdkppcnRNd3U4dW55OWc?oc=5",
+      "published": "Mon, 14 Sep 2026 06:00:48 GMT",
+      "source": "PR TIMES"
+    }
+  ],
   "_meta": {
-    "updated_at": "2026-09-14T06:08:49.148107+00:00"
+    "updated_at": "2026-09-14T07:07:27.762779+00:00"
   }
 }
