@@ -1,10 +1,165 @@
 {
-  "日本": [],
-  "国際": [],
-  "AI・IT": [],
-  "教育": [],
-  "音楽": [],
+  "日本": [
+    {
+      "title": "自民党の臨時総務会で主な党役員人事を全会一致で了承…総務会長に梶山弘志氏、麻生副総裁らは留任 - 読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1rQjE2dTFBMFVZVzhxLUEwMkhxcGVkOENjNWlaTmgyWUdTZmhJbTZlbFdpT2Uzemx2RGJ0blNsZnpXR3RPa0RUNWc5S2MtdzhfcmtieFlGYXZVcDFBU09WcTl5TnFlQQ?oc=5",
+      "published": "Wed, 16 Sep 2026 01:20:00 GMT",
+      "source": "読売新聞"
+    },
+    {
+      "title": "半年が経っても解明されない辺野古事故の核心 なぜ同志社国際は「船長を妄信」したのか - 産経ニュース",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1aclZNVm5lZ1I5Zmk0dURFV0hJWkQycDJDblhaUnZkNVpYeUhZZHV2MkhVQVQxRmsyUjZjeHRLeWNhZDJ4UHNxME5hbGZwZWNLSkdnblRNYkRXd3hFZ2RCYUN2cDdMX0F1SHRzdVY1VHJkY0NiNkE?oc=5",
+      "published": "Tue, 15 Sep 2026 23:30:00 GMT",
+      "source": "産経ニュース"
+    },
+    {
+      "title": "ベッセント米財務長官、中国・何立峰副首相と今週末に会談意向…米中首脳会談を前に「対イラン」など協議 - 読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1EX3hpV1FTR1RRTDllc3dZc1hTQ1ozbEU1MmtiR1VpX2trR3gxdlBWUUhXN1l1Sk02NzJVQkhhdHhCV252cGlacTRfX3IwMHVWWDZEOTNtQURwUElIYmhJZW5nUU4?oc=5",
+      "published": "Tue, 15 Sep 2026 17:55:00 GMT",
+      "source": "読売新聞"
+    },
+    {
+      "title": "台風発生予想 次に発生すると「台風25号」 本州方面へ北上するおそれ - ウェザーニュース",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE14SG9NUWRKTmdFTDhoTVUxcDlubWFWSG13aGlMam5TQzdHbS1BUkMtTzlmZEZfVnFhNVRQd0VLWmF3SGJRcFRRMC03Z212VU5VeVNpVg?oc=5",
+      "published": "Wed, 16 Sep 2026 01:28:00 GMT",
+      "source": "ウェザーニュース"
+    },
+    {
+      "title": "鈴木エイト氏への侮辱罪に問われた弁護士に無罪判決 東京地裁 - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9JS2RmZHZoU2NZd3NvUDJIeV9XQ3V6RDJURjd4eURWc0tqd2YzdVRZdktQUVFrczQ5dU5uRWk1OC01RGpMc3FxRWVnRkJXanJqa3hudDBsZHhONXBnUVJMQXRST3BQWXM?oc=5",
+      "published": "Wed, 16 Sep 2026 01:18:13 GMT",
+      "source": "朝日新聞"
+    }
+  ],
+  "国際": [
+    {
+      "title": "サウジ西岸の港 原油積み込み停止 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5xcEVCV01SRFhyY1hxLWI4RThfN3lRWEdzQ0tfRlhvMUoyTy1yak1YN0J5SmhOa3BQR0VfM0tvdGlIQXhhNVpkR3VqUTNVeTBL?oc=5",
+      "published": "Tue, 15 Sep 2026 22:19:51 GMT",
+      "source": "Yahoo!ニュース"
+    },
+    {
+      "title": "トランプ氏の長男の結婚式費用、プーチン氏に近い「オリガルヒ」が負担していた…夫妻のため祝宴を開催 - 読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1WblBqMzVqd2RnejVCS09XVHRkUnhpVEl0T0h3U3kxWVNQNW9Hc3pSZmg1S1VfV0twWk11UExyUFE1YlUzT2hDMXp6YVVZRWpqcHJNVXVMN0lWOUNGa3VOaFZ3?oc=5",
+      "published": "Tue, 15 Sep 2026 08:19:00 GMT",
+      "source": "読売新聞"
+    },
+    {
+      "title": "「死刑・拷問恐れ選択肢なかった」ノルウェー通信大手、ミャンマー軍政にデータ提供で捜査 - 産経ニュース",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1nTVRhNXdxUEhmcFo4elg3ZUcwU1E1Vy1vcHBXWEFKYnFNMUJtLUd3alpZaDV4SzlvVUdabkdBLTBxTExBSmpoVTNCMXdtYnlrMkVDUTBGUHg4dWFjZjlYbHV5emNkb0Q1ZzJZMFI2bnBrbnMyUEE?oc=5",
+      "published": "Tue, 15 Sep 2026 14:34:19 GMT",
+      "source": "産経ニュース"
+    },
+    {
+      "title": "カーニー氏、トランプ氏に言われたジョークを披露「『撃たれるかもしれないがね』」（ＡＦＰ＝時事） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CYkRMNFpqa3ZZZDl6cHRDX1owM0NuT1pkb3ZpSkM3RVdNSFh1cXVLTkJUOFBubk9BSDVsaXI2cDl4TXdIc0dDWGt2OUVJTHU2SzBQd1hscVFZV3BXN2prVW1aZHo0NTE4M21SN29vRDJXRlFOSGNka1lBMzl6UVE?oc=5",
+      "published": "Tue, 15 Sep 2026 23:16:34 GMT",
+      "source": "Yahoo!ニュース"
+    },
+    {
+      "title": "対米絡む中印接近に異変、インドが削ったキーワード 習氏は晩餐欠席 - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9tV05GTmdxRkJwamExUU5RRUpxN1kxOEVGSEF0N3Y4Z05IQU5ja1BtRGRycGg1aExRZ0ZVX3JFQVdhaGpOUnRaMlFPT2VnVVZhajNEVHpORF9tM281eDJiZk0xQ3FkSUU2Y2lucw?oc=5",
+      "published": "Tue, 15 Sep 2026 20:00:00 GMT",
+      "source": "日本経済新聞"
+    }
+  ],
+  "AI・IT": [
+    {
+      "title": "ITソフト中堅の米ペガシステムズCEO「AIトークンの無駄遣い回避」 - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE85WGFIQTNmS2xnVzJBWTR6NEo2TWVSME9DbGRMeHBBc0ozN1plWVp6Z2pEQ0pjS210MWF6c1J6RExlTmhBSFhEN2VMRzNkMGN2X1BYRzRDMVZIR254UWpjUWowTy05dVh1OTBoOQ?oc=5",
+      "published": "Tue, 15 Sep 2026 20:00:00 GMT",
+      "source": "日本経済新聞"
+    },
+    {
+      "title": "生成AIで減る作業時間、残る確認と責任 ITエンジニア1265人調査 - キーマンズネット",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1fSHoxb2xCQXBUU0JLQ2oxTjNSSjBJZW1ibHhIbWpHV0RUcUhuYWxvMEZxLXVqbThidkYtMTVqWlcySzlmUG8zOV91QktZV2RVODRIdUcxeE84OVNqV2pwWjlpV0hzZw?oc=5",
+      "published": "Mon, 14 Sep 2026 22:00:00 GMT",
+      "source": "キーマンズネット"
+    },
+    {
+      "title": "インドＩＴ株が急伸、ＡＩ大手の開発ペース減速呼びかけで - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxON3hlb1haVWdZaFFiRkt5N1BSd0NBWHV0S1VBRkZlMmQzRHlud1FZVnQzTkpHbGt6YXlOaVU1ZzlBNDM5SDR0Qm8yeEg2Z21ESGZqeFo2c2tsU041MnhJVTJOQzBYaktWU0dFZmdnXzdaZTF2eTRMY1hYT3BWczFhVmg1QXpkUQ?oc=5",
+      "published": "Tue, 15 Sep 2026 05:58:00 GMT",
+      "source": "Reuters"
+    },
+    {
+      "title": "応募者なりすましAIによる面接が話題～北朝鮮IT技術者の可能性、第三国の協力者利用で巧妙化 #エキスパートトピ - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdEQycnpvb3ptU3hSR005OWdDUS01ZG5OMHpQTmtUcjJNemFSMV9UYWZFV1RrMEZGOElwVERoNFp0SkVvTDkxQlBkOEhWWGRkbno1QzJoLVdna1NULXJQTERmQUtxeW56TXNEQi1CUVZMQnk3cmt3a19BS1FMMml4ZVFzRkFfU2ls?oc=5",
+      "published": "Tue, 15 Sep 2026 07:38:57 GMT",
+      "source": "Yahoo!ニュース"
+    },
+    {
+      "title": "かんぽ生命、AI駆動開発で開発標準を刷新、工数5割減目指す - IT Leaders",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1waS1jX3JnY3R6anRWSTdQOGFad3BId2hsLTdDeHFEcWl4NFRHQVJTdFhZdElYN2ZEMVpMNnZhbWdwZVU1UEtvNm1WTElzVFFyRG5n?oc=5",
+      "published": "Tue, 15 Sep 2026 01:10:50 GMT",
+      "source": "IT Leaders"
+    }
+  ],
+  "教育": [
+    {
+      "title": "「脅威国を名指し」防衛省がつくった小中高生向け教材の偏った記述 「配布は行わない」断る教育委員会も - 東京新聞",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE51bHdjdnlqRnAxRTlPR1JVY00wVlV3bmhUcTNZX3BwZ29wUlNva2Y0RndSMEhCbDBvQ0I3cDgzT2NFVTIzS2M2RFFwdUlzSTdCSzc0?oc=5",
+      "published": "Mon, 14 Sep 2026 20:00:00 GMT",
+      "source": "東京新聞"
+    },
+    {
+      "title": "変わる教育基準… 10年ぶり改訂へ 戦後教育の背景【バンキシャ！】（2026年9月13日掲載）｜日テレNEWS NNN - 日テレNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ZbFlEb3BfNE5BMDB5OUhnVUtfYmtVa0p3SFFObFBiNHhBRlB3UXlrekFGRFBnVHhuQjhjM2pmWTBiZ3AyWjZEM1M2R2JwTGtaZDN5ZFBRUXpwZTU1VHBrdzZYbE9HNjVKVEF4Q1lwTGlpNFpiNUg2bHJRZ0Y?oc=5",
+      "published": "Sun, 13 Sep 2026 11:37:00 GMT",
+      "source": "日テレNEWS NNN"
+    },
+    {
+      "title": "「楽しい子育て」のコツとは？保育・幼児教育の専門家が奈良で特別対談 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsc1Q4T3ZBemZXb0JUdTlpMVZuWXBBX05zT3R0X3p5c2Eydm1FUFQ3OWQ3ejhicGpCSzlSNnJBUlJaalZsc1ZlOEpiTTZ3N01UcVpjN1BETmVGaGx5Q2xQWmtiZTE0VWpmQ0E?oc=5",
+      "published": "Wed, 16 Sep 2026 02:00:02 GMT",
+      "source": "PR TIMES"
+    },
+    {
+      "title": "福井県の2高校、新たな教育改革拠点校に 文科省採択、理数人材の育成や遠隔授業ネットワーク構築 - 福井新聞社",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE53VmVjYVY5c0EwVC1kdS1lNjU5eENfUDZRY2Vvamk0eVp1cU5JQUhIaDByTU1hUjNIcjR4ajBXdEJ4clF6ZjZDaVFKeFd6N1VHbTVmNkhibm5WYThwV2c?oc=5",
+      "published": "Tue, 15 Sep 2026 21:00:00 GMT",
+      "source": "福井新聞社"
+    },
+    {
+      "title": "【幼児教育講師が解説】子どもの自立を遠ざける親の5つの習慣とは？（子育て勉強会TERU） - エキスパート - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUmJVRktCd1paSmdvU09jZTE3N0dSYXdxWjRaOWFtRXYxaXdVaTFteU02VllNUmFBXzVka284UmdLeUd5UC1BTFdqV2pLQURBM3NBQXdlNG1JUTB2a1BIMUxXY0FjM2pJa3NjblczQzhDQ1M3cHN5VXJsbjJMcmtUWm1McVZXMWY5?oc=5",
+      "published": "Tue, 15 Sep 2026 13:40:36 GMT",
+      "source": "Yahoo!ニュース"
+    }
+  ],
+  "音楽": [
+    {
+      "title": "CD販売枚数が急増…でも音楽聴くためでないという現実（ギズモード・ジャパン） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHNkdPLTQ1d29mWG9hdnpkMFBlVmI3ckp5X1dIb296VmltZ1dCZ3pVMkk4Z0RFX2ZTR3J0Zmh0UTJxaG1xRTRkVFl2bnVWVmZVUEplODZDTmR5RXdMeUpKTFpQcEJFZDUtaUtEdVV5cVJkOGt5Y0g5bGlIX09jb3c?oc=5",
+      "published": "Mon, 14 Sep 2026 21:00:01 GMT",
+      "source": "Yahoo!ニュース"
+    },
+    {
+      "title": "Suchmosが藤井風、くるり、The Birthdayらと競演した対バンツアーの密着番組放送 - ナタリー",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE10SURKcDVySGdQUkEtYzhiSHlZbW5idTFWOW54RnE1aXd4b2hUWHBBbF94MXJ0bnZicTRkNHBqeERkbE1OckFTNWFxX3Y?oc=5",
+      "published": "Tue, 15 Sep 2026 11:00:00 GMT",
+      "source": "ナタリー"
+    },
+    {
+      "title": "「音」と「音楽」の都市型フェス「UMEKITA SOUND BAZAAR」11月に大阪で初開催 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA3bmhaYmFEcy1sLUpGYU5NbWItSU5MVms5TGE3TnAtQXM2TDBQRjhpcTJxQ2FKakQ4VS1yOUtYTE5pVmpDX09PVS1QRTBleEhjdEtZWUFTM1k4TXIwNDVzRGJyTW9fazhOUmc?oc=5",
+      "published": "Wed, 16 Sep 2026 01:00:02 GMT",
+      "source": "PR TIMES"
+    },
+    {
+      "title": "小田原市の北ノ窪公民館で「午後の音楽会」　バイオリンやチェロ、マンドリンで多彩な楽曲披露〈小田原市・箱根町・湯河原町・真鶴町〉 - ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0tbEhUcnpta1NUUHFFZGUtNlRFNlpEcEdaQXZKQWtycmwzcllpb1pTR3dfWDFINTBpZ2h0b3F4ejlnb2JVeXBsTzZLY1djZGFlSXh2bmdiTnlsal9aTWgzRWN0ZEJKTDNsZkdVcEFQdFhSQS1Id25QY2hsNNIBgAFBVV95cUxNbXlqWllqRHZxdkFidWRDX1ZKT2p0SkF5UDVfUDhfSnpKeFJhLWhfTHdidVVqTmQ2VUNrWTFYN1hVN0pDQmc0N2VIdmZPWnNqQlg1WHNzSDdyNUVab3BmQnc3eDJ0bjJHWElIZkZRa1F4aEpROUgtX0d4WDBjMjZvRg?oc=5",
+      "published": "Tue, 15 Sep 2026 23:43:40 GMT",
+      "source": "ｄメニューニュース"
+    },
+    {
+      "title": "音楽は言葉を超える ワールドミュージックナイト５０回 ９／２３・高知市 主催の吉田剛治事務局長寄稿 - kochinews.co.jp",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1sLXdwbjZOLUtjWDhMUlh4YU5scWtGUlliQkw1WllIeUhQMTFSNmkwbzMyTVdWZEFHaTYzelJkbFhmdkpReVlZbFJBNEt2ZVpXOWxSX2pmV0JVaTZTSUdR?oc=5",
+      "published": "Wed, 16 Sep 2026 01:36:00 GMT",
+      "source": "kochinews.co.jp"
+    }
+  ],
   "_meta": {
-    "updated_at": "2026-09-16T01:06:11.041542+00:00"
+    "updated_at": "2026-09-16T02:06:02.294170+00:00"
   }
 }
