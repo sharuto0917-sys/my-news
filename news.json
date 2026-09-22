@@ -1,10 +1,165 @@
 {
-  "日本": [],
-  "国際": [],
-  "AI・IT": [],
-  "教育": [],
-  "音楽": [],
+  "日本": [
+    {
+      "title": "土砂崩れ3人死亡5人不明 千葉・鴨川も大規模被害か 佐倉では冠水 - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4wNnBUQmY0blBxZFBOeG13NHZEd1FrOWlvREdDRFNLVTBvZFNnSFB0NUtFYk90VWp4cnVlQmdmU2xHbDFzeDVJSHVOXzVWSGFLQWx0OW1jU3FTTnQ0dW9oa3QtcTE1bGM?oc=5",
+      "published": "Tue, 22 Sep 2026 02:18:17 GMT",
+      "source": "朝日新聞"
+    },
+    {
+      "title": "【速報】約12時間、何にもつかまらず琵琶湖を漂流…46歳男性がライフジャケットだけで湖岸に流れ着く 「昼に転覆した1人です、10分前に流れ着きました」と自ら通報 救助に向かった48歳男性は行方不明 - ktv.jp",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ycnJ4V05teWp1Z1BFQUg3OVBzRjJYbm5ieUFya2Y3VlZUVW9lUDFCd3hzY0s5X2g2c3BhcjYtZEl2LXlKVUxKekhqS25ad1NGaVFlbg?oc=5",
+      "published": "Mon, 21 Sep 2026 21:37:00 GMT",
+      "source": "ktv.jp"
+    },
+    {
+      "title": "奥能登豪雨２年の日に献花に訪れ…流され亡くなった母の携帯電話、自宅跡地近くの土砂の中から - 読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB6eUJEVmljOUJ6X1U4dy1qMjhseDBkcVVfSjJlT05VN29zQlZnZlZYelRnMnJvRk9WM29kRXNnUVZEcGlRT180TzMyWVNnNEp1d1VOTWF6SG9zNHlHLU5QOWUwQ0xwZw?oc=5",
+      "published": "Mon, 21 Sep 2026 21:30:00 GMT",
+      "source": "読売新聞"
+    },
+    {
+      "title": "【上空映像】台風25号 記録的大雨 きょうも土砂災害に厳重警戒 - NHKニュース",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1TMTJ4YUpXeVB4dVV0UFdyQ3ZONE43TDVIcUlYcFhRNzU2OXFvMzYxSXoyYmJWZ3lZRHN2M1BHdjZNcW5oN3JfTDFyQXRTcllubk1zaVBUaTlrNUdYOGtj?oc=5",
+      "published": "Mon, 21 Sep 2026 23:08:46 GMT",
+      "source": "NHKニュース"
+    },
+    {
+      "title": "絶頂期に偏見乗り越え独立したあべ静江さん「自分の気持ちは自分の言葉で伝えて」…みずいろの手紙・今を生きる女性たちへ - 読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9EUjNyT1VKYlJZM1E2eGZEbjNhSUQtcHdLZ0VKYnd4b2tYVmpNdkgxY0o3NWgzcGNMMEJHZ1g1WVdwUWVHUkU5Y3diMmE4VU5JSnVucFpGV2VVWEVuLWs2UjVlalQ?oc=5",
+      "published": "Tue, 22 Sep 2026 01:00:00 GMT",
+      "source": "読売新聞"
+    }
+  ],
+  "国際": [
+    {
+      "title": "米主要テレビ局「ホワイトハウス代表取材」停止 CNN排除に反発、トランプ氏は反論 - 産経ニュース",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA1LThudXA2bWNfakc4S3llMnRzeGlZZXdSWWk2c1JneEdPd3ZsejdvcHRUSFA0T0VtVG1JOGtVU1RGVlM4Mm50UUhnalR5X1M4THFRMWFmMm54TWxlQ05waG92Tm5CaW03Z0FiLXFvM0lwNEdiVFE?oc=5",
+      "published": "Mon, 21 Sep 2026 22:52:01 GMT",
+      "source": "産経ニュース"
+    },
+    {
+      "title": "トランプ米大統領、異例のニューヨーク市長公邸訪問 マムダニ氏と会談、共同会見も - 時事ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1mel84YkdSWUN3UjNnWjA0R29zdnZuTUpGUVc5eGlHcmxYVlFINGZRRFZsdlVyMUVOOU9mZTBLckw0eHNPUk9YMENRUHJfSXVoa3JmUGZuMmNzUFZkN2JSendDcw?oc=5",
+      "published": "Tue, 22 Sep 2026 03:31:00 GMT",
+      "source": "時事ドットコム"
+    },
+    {
+      "title": "今年2度目の米中首脳会談、台湾・貿易・AIで何を語る 専門家に聞く - nikkei.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45b3dqU00xbXAxS21OTUNUNEwwTEwzOXgyTDhBQkFpWm1EVzNoLU1CcS1jcG9zaUR2UGVEZ3QzM2x6SlZOaWlLT1JXeUxTZXNWUmotWjVxeUw5T0xtQ3RQUExFUzBmNUl5ZDg3bg?oc=5",
+      "published": "Mon, 21 Sep 2026 20:00:00 GMT",
+      "source": "nikkei.com"
+    },
+    {
+      "title": "日米韓外相、次世代原発の第三国導入へ声明 北朝鮮の非核化も確認 - nikkei.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pLUxac29Zemc2Zzc3b2dDU0pLNzFnSmRoZGsxai1DQjA0NHBLaE5kQmxRa2VLQUg3SnBPaUdUZzRDRllPV213dVY3cGNjaHBlYlZkMUVSbE1CWkN1ejFydmhHaGZWZlBFM05CbA?oc=5",
+      "published": "Mon, 21 Sep 2026 23:00:00 GMT",
+      "source": "nikkei.com"
+    },
+    {
+      "title": "ドイツ州議選、メルツ首相の与党が歴史的大敗・極右は躍進 識者に聞く - nikkei.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZQ2NkS01LMkpwVkdDOFdyVzJzME9BZlVWaDI1bUk3ZndzLW1BMjBBWHlXeHBWSVVDeDFwU3JwSlhra1QzMThydTNpcktSeEt4VkpiQ3lwZmxSUnhoMkVqNFpHM29FaVI2SVQxSg?oc=5",
+      "published": "Mon, 21 Sep 2026 16:43:43 GMT",
+      "source": "nikkei.com"
+    }
+  ],
+  "AI・IT": [
+    {
+      "title": "AIが脆弱性を見つける時代、企業に足りない「検知」以外の能力とは？ - キーマンズネット",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9nQ2hvSnBOZzAzWm9pNkJRU0ViRmlleVZCRmZPampFWHFUUF9rR3oyaU1idzd0NDRHTm1ZLWJ3X08tOF9MOThkT1laaVhVSUFyc1hHVkQ0VldPLUQxRnZ6STMyRmg1UQ?oc=5",
+      "published": "Mon, 21 Sep 2026 22:00:00 GMT",
+      "source": "キーマンズネット"
+    },
+    {
+      "title": "「AIの国際連携、米国が主導を」 米中会談前にオープンAIが提言 [AIの時代] - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBIRzZ6bWFBclU1Q0lmVEU3bXlGd0JRY2dJdmxGOEVRLXNhcFFpNzFibDRBSVJyVDRUU2EtS3prWjZhc1NESFFTTm1NLTg3d01SemJiaUZlejZBdnRoN3lvT2VZa3RfZzg?oc=5",
+      "published": "Tue, 22 Sep 2026 00:14:38 GMT",
+      "source": "朝日新聞"
+    },
+    {
+      "title": "「速度調整」訴えたアンソロピック、オープンＡＩに追撃され新モデル発売検討（ハンギョレ新聞） - news.yahoo.co.jp",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CTUFTMlp6SGpsTjFNeXVjRU5RbXNZOGw2SF9LdUxFQmxxTG1IUkwyd25nN1ZjcWF6d2xOeUJLQ1FWZkhBTDJLeG9FRlBvdEI4aHh6WUgzQlAzSUFDc2tCeVQ3LVhQY2o1aVVFb1M0T19pME1YV2ZuN3FiNGFFSWM?oc=5",
+      "published": "Tue, 22 Sep 2026 01:19:33 GMT",
+      "source": "news.yahoo.co.jp"
+    },
+    {
+      "title": "ハードテック急増、AIが製造業の起業を後押し - 株式会社エクサウィザーズ",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0xMFo0Y2RKU1JfY1NycU9GUlAtZ1Z3aXNtOFdHb1k3MTQ1MUtub0oxTG1aZHNUV2NVUUcxQ1pROUhvcTFDTnRrV0ZTVTctdzhvTFR1YlpxbGNCeDBKZk5JRGV2SF9FUQ?oc=5",
+      "published": "Mon, 21 Sep 2026 21:54:06 GMT",
+      "source": "株式会社エクサウィザーズ"
+    },
+    {
+      "title": "オープンAI “安全なAI開発進めるため 世界的な取り組み必要” - NHKニュース",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5RZk1zQWJrdWVWcS1ydGpUWUlhc1hqdS1JdmpHVW5xMXNFenNTaEdIQlJ4OVJxc19HVFVhU1NNSXpWYXFOVE5BdjBUY3dpRWFvQmdyYVNuUHdJNVplZ3BR?oc=5",
+      "published": "Tue, 22 Sep 2026 03:12:31 GMT",
+      "source": "NHKニュース"
+    }
+  ],
+  "教育": [
+    {
+      "title": "顕微鏡の画像をスクリーンで共有 福井大附属義務教育学校に“最新”の理科室 内田洋行と連携し新たな教育プログラム開発へ - news.yahoo.co.jp",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEc1dyZEdVZzNLQVVXS01xYk82SWlZaVhwTW1tM3Rac2Q5X05Sc1R3NFRLZG5Cb0pCVjRIWlBVUXY3bHZxUFVEZmNLQVVFRjR5a0VpMnd1cjJWYUp6QnR4OS1qdm9ob3d2QnlpU0paZE1fd1hoUzBiQ3Y4cVg3dnM?oc=5",
+      "published": "Tue, 22 Sep 2026 02:57:01 GMT",
+      "source": "news.yahoo.co.jp"
+    },
+    {
+      "title": "生徒スマホ「指定席」で保管 ソニック、教育現場向け用品 - nikkei.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9OblUtamlsQ2JfNlI3akdGUDJLdHZGUHBqMW1KejZWb25ySE9nV1N3OUxaZ1c3M1NleXpSd25qVUdSWlp4R2hqWFR0NmxoNXlBN3ZqbjRSSXZYaGg1SVlySXhRS0VER3FrdG5qOQ?oc=5",
+      "published": "Mon, 21 Sep 2026 17:00:00 GMT",
+      "source": "nikkei.com"
+    },
+    {
+      "title": "教育予算 ＡＩ・半導体重点…戦略１７分野 人材を育成 - 読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUVmFRaURyRHRlcVlMYUZzcmI5Tld1MkRZU3l6VzNoRlcwUVVPaHlQdVdfejJWSF9rT1BGZ0ZmNzNzR1B0MEZlT05DcU44VXppT0hDQ0ZTVWoxQV94di1zZ1BsSnN2NmpEak1DTQ?oc=5",
+      "published": "Mon, 21 Sep 2026 20:00:00 GMT",
+      "source": "読売新聞"
+    },
+    {
+      "title": "Huawei、「AI Practice LAB（AIPL）」ソリューションを発表、「教育＋AI」による人材育成の新たなパラダイムを確立 - 時事ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBERkF0VmM0Q3YyVWNnNGlnRlpudmFoSzBIQWtHWnJ2YW9NMnFja3hYaW9Cc0Fwd1pRelZUU2xvd3ViQ1hnbzROYW9MV3A3VUdUaDBtaTBYM1Y2Mktp?oc=5",
+      "published": "Mon, 21 Sep 2026 19:36:00 GMT",
+      "source": "時事ドットコム"
+    },
+    {
+      "title": "（記者解説）８．５万人の日本語教育 海外ルーツの子急増、自治体任せ限界 社会部・山本知佳 - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE94cklEVEVZbXBSMm1FTnZ2YkJRWEYtdWNpalhHOUk1Rk96Snk3Z0tsZTFiMVVFVFM5Q0hzV0NBYW5zTG5XSS1XVmlfckdYbF9sQzNCZmZKYzU3TWlt?oc=5",
+      "published": "Sun, 20 Sep 2026 20:00:00 GMT",
+      "source": "朝日新聞"
+    }
+  ],
+  "音楽": [
+    {
+      "title": "スガシカオと大石昌良が音楽人生語り合う「私の推しを聴いてくれ」ナレーションは佐久間大介 - ナタリー",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE16ekZTS2N1VnpoNzRQTEV6Z1JNUkxNYW9WYmw2Q0taVEQ0ZXJpOHZVaVlrRE9zcldGRXBmOWZGTjhiTFRYOVlycjEyUGI?oc=5",
+      "published": "Mon, 21 Sep 2026 09:00:00 GMT",
+      "source": "ナタリー"
+    },
+    {
+      "title": "KO1KEYZが初の音楽雑誌の表紙に登場！ 『B-PASS 2026年11月号』が9月26日に発売 - B-PASS online",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBnZVB0S2lHV2JlSkxvNmRwRmlOV2NJT1BSOG1qZjItWTR4ck1pMy1VVlF0T0ZqRkdYQ3VTS210bDFSZmhMZWc?oc=5",
+      "published": "Sun, 20 Sep 2026 03:00:00 GMT",
+      "source": "B-PASS online"
+    },
+    {
+      "title": "ニッポンのミリョク×熊本音楽祭 地震からの復興願い 音楽の力で街中を元気に - TBS NEWS DIG",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0xNEh2Qjlab19nSm03OGJuNlFrbG1mVzV3cTBOWi13bmV1V1dlYkRqQWJ0Mkg3cGdNeFlHaXVyWjhvTDFCR2ViLUJpTktwbDRUUVNOc1ZORQ?oc=5",
+      "published": "Sun, 20 Sep 2026 02:43:00 GMT",
+      "source": "TBS NEWS DIG"
+    },
+    {
+      "title": "街なかから文化発信「熊本音楽祭」（ＫＫＴ熊本県民テレビ） - news.yahoo.co.jp",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nNUdPV0FJc2pNQmtLWU10emxpSF83MUN0aE1tcmVqa0lYYzk5cW1rY2U4eVV3cTB4c25Md1pyTXlwTzlLZlJud2hCeG9USjh4WUJMY2oyQWplLW5mRkRxSkZqSVFJZ0tCM0R0SDFrbHBiSHVTV3RDWGM2aWx1RXc?oc=5",
+      "published": "Tue, 22 Sep 2026 03:31:00 GMT",
+      "source": "news.yahoo.co.jp"
+    },
+    {
+      "title": "復興の節目に音楽の力を！熊本の夜空の下で魅力を届ける「ニッポンのミリョク×熊本音楽祭」（熊本ニュース KAB ONLINE） - ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUWVtQnprVmR4NVR0OHM0T3U0emVBOW5mUWxRVDVJcUN0WjE0ZFF0c25qYVVxYk41WTlOUlhrSEtKRTgtRjhtZlJXampVeHp6NURkOHNBNkQzYXg5M0k0Y2x1aTM3UWhIT1VLUXpsNjdSZ2hGdEF2M0tiM0FfaG55bDFZb3pwTkJuYkxQTzBOSl9zYlgzU1V4c1hJaXdweDJJN0oyOTgtNFNwTVZ1WENkUHNNRXhGdkNGRXRjMmdUWDd0c0xTcGc?oc=5",
+      "published": "Tue, 22 Sep 2026 03:19:00 GMT",
+      "source": "ｄメニューニュース"
+    }
+  ],
   "_meta": {
-    "updated_at": "2026-09-22T03:06:28.803564+00:00"
+    "updated_at": "2026-09-22T04:05:49.358996+00:00"
   }
 }
