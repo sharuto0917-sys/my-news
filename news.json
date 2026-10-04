@@ -1,10 +1,165 @@
 {
-  "日本": [],
-  "国際": [],
-  "AI・IT": [],
-  "教育": [],
-  "音楽": [],
+  "日本": [
+    {
+      "title": "【速報】海兵隊もコメント発表「極めて重く受け止め」 那覇のホテル強盗殺人 容疑で米兵逮捕 沖縄 - 琉球新報デジタル",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1jUTh4YnhabGVxejRBQ2ozMV9KTGR2aHl6Ymh3azYwRTE3N3VjeFdzOXdvTXFaM1h1LVVWTW9JVmJpaThNTWYzZXBURTJLNHVUdTNsVHRmM0lLcXc?oc=5",
+      "published": "Sun, 04 Oct 2026 05:14:18 GMT",
+      "source": "琉球新報デジタル"
+    },
+    {
+      "title": "副操縦士、「お祈りをしたい」と申告直後に機長へ一撃…イスラエル当局がチェックなら乗務できない国籍 - 読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE83SzMwSC1jNHhaa1FYZXJaRkJ5S1NaWXl2TGd2Sm9fSXVoZjR6a25TSGpvM1VpMW4xUjJnTUVseThETlBPMk5CWmo3SWVWcFVaUG4wakRRU3dMZjc0N1dUWUpR?oc=5",
+      "published": "Sun, 04 Oct 2026 11:08:00 GMT",
+      "source": "読売新聞"
+    },
+    {
+      "title": "自衛隊に自動運航船、無人化も視野に研究着手…有事輸送や島民避難 - 読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ycllxS0k5RjI5c0J0R2dYckZkMUhEQ3AyR3ZHSDgzeW9NRWc0cE9ubk1nemFPaWhsbF9GNGV0RjVibmxMbGNuSUZmSElzVllOZmZBMTMxd1RIdXc3VFlUM0pqMlZUQQ?oc=5",
+      "published": "Sun, 04 Oct 2026 20:00:00 GMT",
+      "source": "読売新聞"
+    },
+    {
+      "title": "イエメン暫定政権、フーシ派に対する大規模軍事作戦開始を発表 全土掌握目指す - reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMHJxZ0s0NHZzMHZmNkFBaGkzTFMwTFVuOFRhNjUxT0lMYnAwckR6bXNfNkpBV3lDMkR0bDBONU1VajFvaDJzWE1tNmhlZkg0YktKV3VDenJhWkhDalFHQkpaMi1GS3laaHdaclRrZWJERHZ2TGJTQXJ4ZVlMbXliRFJGSWhyejQ?oc=5",
+      "published": "Sun, 04 Oct 2026 14:41:43 GMT",
+      "source": "reuters.com"
+    },
+    {
+      "title": "簗農相「予算大幅カット」発言の背景は？ 衆院栃木3区、保守分裂や確執の経緯を振り返る《無料公開》 - 下野新聞社",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1HWGE3ZmlsVGJNcVhXUVlRV1ViellvSXpGYU02NFBpcGttWVBqUUx4R1ZiRWxETlE4RTJ5TUZtYjBkZlc1ZXBPQ1FNN0ZfdDBaYW9QeWtLeEpwbE0?oc=5",
+      "published": "Sun, 04 Oct 2026 13:45:00 GMT",
+      "source": "下野新聞社"
+    }
+  ],
+  "国際": [
+    {
+      "title": "フーシ、サウジアラムコの施設を連日攻撃 弾道ミサイル・無人機使う - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLUzlvWEppQ2k5bFY4TGxrVlE0Y3RQNWMtSlN5ejUtSkZzaWw3d3BUZkZ6SjFRWUVfaVl5dWE5ZTlGVGxUMlZjSEMxSlBvTm5hdEZEdnQtTEZhTU1Ec0g2dDMwZHFjWEszdTVlSw?oc=5",
+      "published": "Sun, 04 Oct 2026 14:23:00 GMT",
+      "source": "日本経済新聞"
+    },
+    {
+      "title": "副操縦士、「お祈りをしたい」と申告直後に機長へ一撃…イスラエル当局がチェックなら乗務できない国籍 - 読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE83SzMwSC1jNHhaa1FYZXJaRkJ5S1NaWXl2TGd2Sm9fSXVoZjR6a25TSGpvM1VpMW4xUjJnTUVseThETlBPMk5CWmo3SWVWcFVaUG4wakRRU3dMZjc0N1dUWUpR?oc=5",
+      "published": "Sun, 04 Oct 2026 11:08:00 GMT",
+      "source": "読売新聞"
+    },
+    {
+      "title": "ロシアがウクライナ首都からの外国人退去を勧告…プーチン氏はジェット式無人機視察、担当者「敵を攻撃し続ける準備はできている」 - 読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WeWZmS2FIWGNZbnQyb2VITG9Fd0lUdExwb25MYXh2dC1uX21lMUtBQ2M0RGY5OGNUYkZnQlJnSEtYZ3dycHBDZUhBeGpnVE5sYWo5ZGdJQi1LQms0X2oyUDJ3?oc=5",
+      "published": "Sun, 04 Oct 2026 09:08:00 GMT",
+      "source": "読売新聞"
+    },
+    {
+      "title": "変容する米国：米民主党の反主流候補、レトロな日本車に託す怒り 党内対立深刻 - 毎日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBvSXFaazBLc1JpcHI3RVFCTXFaeFVfMFVQZXhjdll2ZXNMb3J4d1o3MkRxMFRHN2VRQXBWVUdEQmRSd3RJVFV3dnQxcVFDZ043ZnhMcENuOFBFNHlwdzJpMk1FNWFIaElp?oc=5",
+      "published": "Mon, 28 Sep 2026 21:00:00 GMT",
+      "source": "毎日新聞"
+    },
+    {
+      "title": "米政権幹部が「極めて異例」の極秘会議 イラン、フーシ派への対応を議論 何らかの決定か - 産経ニュース",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8ydC0wc0VyQ05VZGFWTkNWZ293dTdoSl9sRzlSTERpdFQ3aC1yTG15alpDYXNWSG85eHFaNzlEWldMOFIzOW5WRElpVWQ3NGhMUGVaV2Zka1pMbmFWeTdReGJTeTRXY1B1LUZ2NWJ4ZUFyZlRISHc?oc=5",
+      "published": "Sat, 03 Oct 2026 22:49:37 GMT",
+      "source": "産経ニュース"
+    }
+  ],
+  "AI・IT": [
+    {
+      "title": "NTTデータG、法人向けAIで日立らに挑む 人月ビジネスから脱却図る - 日経ビジネス電子版",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaV9lZDhoT24tRHduOWoxVjhNRkR5Nm15MGhuRW9ZVkxVNHgyZVB1SG42Zk5WcmFEWmZQbEwzZExyUlBkS3JpeVZEcVlWWEFwd3dtblZBbk85VkpXejhPWGNIYXA2MkNjbFRtRGdJU0JMa3VMVzBIa2xxbUJrc3N2d1otVUtDMm5CSWpWbQ?oc=5",
+      "published": "Sun, 04 Oct 2026 20:00:00 GMT",
+      "source": "日経ビジネス電子版"
+    },
+    {
+      "title": "AI時代に選ばれる企業は「商品データ」で対話する【第8回】 - デジタルクロス",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBPV1M3dGFaTy1TRUxmT2pXcS1TMVo2V0s2d3V1bUp6N2llRlF3RFVpd044aUdEVTJZR0RRdXVnMlVuRzQ3SHIxREt6LWdoSl9WV01mRWdfSkNPcWtWWTNDSTNnUW9ndEZQdGM3UjNpMGNrdEZ3a2c?oc=5",
+      "published": "Sun, 04 Oct 2026 21:00:00 GMT",
+      "source": "デジタルクロス"
+    },
+    {
+      "title": "AIを3体働かせたら「縄張り争い」が始まった エージェント時代に必要な「AIの組織設計」とは（AMP［アンプ］） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9UNHVyVkJUZnFrR0liLUxsUnFCTlJqSGU4RXpiMEJZaUxGVHh1bE9SaTNBVlpYUkhhLVdDd0hUaXFOeHNGbndmcW9JblZiVzQwaGNoMk5pRVd3NnU5SFFWdjBhNlBXSW4tNkdhR2RnWmRQUlBaT1lnWXYyVzAtUlU?oc=5",
+      "published": "Sun, 04 Oct 2026 21:04:42 GMT",
+      "source": "Yahoo!ニュース"
+    },
+    {
+      "title": "ＡＩメガネ、中国でカンニング多発 大学の試験、対策「いたちごっこ」 - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMMFl5cXpsZFU1NlZaWmVYdzFzVVhyOWJESTJhcVJ0eno4SEplWEhkdTVNZGsyMXZTWUFUNy1KRC1aTkFyckZDTFNTTTFtTjRESl9hVFI4Zk1BU0p6?oc=5",
+      "published": "Sun, 04 Oct 2026 20:00:00 GMT",
+      "source": "朝日新聞"
+    },
+    {
+      "title": "トランプ大統領 AI政策を調整する司令塔組織を設立 - news.web.nhk",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1VYzItQlFDTEVyWUJhY005eElZbExyMlIxX0JVRjRBa3l2N1owSFU2SGoyOXNwOXZSeUMtbU12U2dqd0xkLTAwTEk3dl91cWpaeGp2MzVWcURGMEExUGl3?oc=5",
+      "published": "Sun, 04 Oct 2026 21:35:39 GMT",
+      "source": "news.web.nhk"
+    }
+  ],
+  "教育": [
+    {
+      "title": "大学進学率「男性優位」は先進国でほぼ日本だけ…「男は大学、女は短大」昔のすみ分けが残す教育格差 - jbpress.ismedia.jp",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11UFlDMzdnTksxckVZWVlndWxMaVBzVWN2NEFWNXZtbTdUZHBEMmY1Z3p4VXpCQ0Myd2VITE1QNzFVYkV0NEpMRFA4X1lJNGdqbG02TWdR?oc=5",
+      "published": "Fri, 02 Oct 2026 21:00:00 GMT",
+      "source": "jbpress.ismedia.jp"
+    },
+    {
+      "title": "27年春開始の育成就労、日本語教育の受け皿7500人分 来日は年15万人 - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mWmJRU0dUclotMHRnby1MWG1IWVVCSjJ3dkVlOHVobFlZYVVSZ0c4Vk9YY0NTbUVlNkZqNk9VSTlneFpBUjFpTllpWTRGSHNNczN1dnF5QWR3MzVVaUloM1pWNm1LRzJBZmNMVg?oc=5",
+      "published": "Sun, 04 Oct 2026 20:00:00 GMT",
+      "source": "日本経済新聞"
+    },
+    {
+      "title": "生成AIを教育の「伴走者」へ、教員9人が活用アイデアを披露（こどもとIT） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBra055ZG51TWxRNUJXTjNWTWtJRldRaHZBVm5VUzVnWGNta1BkZ25TTHV5V041RjRLd3h1bHNuaXp2MWZzM0JsZnQzajNSbHZfSzFxdHhuclhrQWtSaWpORDRwYkR0ZkZBTlVra1dCajM0dE10dkVwXzYyV29Eb0U?oc=5",
+      "published": "Sun, 04 Oct 2026 21:41:04 GMT",
+      "source": "Yahoo!ニュース"
+    },
+    {
+      "title": "南相馬の教育施設に備品 ダイユーエイト教育財団が寄贈 - 福島民報デジタル",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBsOWxfQ3ZKanpLS0pkczlIZmZFSmxTY2lhdFIya3RGZUNGLTdBMEtUT29EWG93aXVyTlhHZnpwWGlNQWFSSUVrTDYtZnN5WFk?oc=5",
+      "published": "Sun, 04 Oct 2026 20:07:00 GMT",
+      "source": "福島民報デジタル"
+    },
+    {
+      "title": "AIで英語不要？ 中国で揺れる教育 大学は授業再編、SNSで論争 - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RUVhMcXZaMDNTeERpWXlRMnQzNGNIeXV3TDZBSk9DUVY3cnd2Z3pSZHRtMElmZUdiUGxmU1JtOVM0bGNXNXFZWnlWZWZqaER3SElnOHFhb2tSR184bl9YdWFNMnBnYlk4MXFJ?oc=5",
+      "published": "Sat, 03 Oct 2026 20:00:00 GMT",
+      "source": "朝日新聞"
+    }
+  ],
+  "音楽": [
+    {
+      "title": "ミセス大森元貴さんが語る音楽観 「ライラック」イントロが長い意味 - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tamRsS0NBMVNFSmFYOWg0RlZSaUNRdGh0VE1wVHBHRXNWa3lROEpwdlBjT0xMSFFZVXdRYjJqaUJzWWxnZzBPR0JmUEF4Yk1rXzBrTDRiaFlDMHVrYWQyQ3A2cHhpbzQ?oc=5",
+      "published": "Fri, 02 Oct 2026 23:00:00 GMT",
+      "source": "朝日新聞"
+    },
+    {
+      "title": "昭和の音楽少年の心に火をつけた異色バンドの現在地 レッドゼップがいま再び盛り上がる背景（武井保之） - エキスパート - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQXZxYnA1cjdfYWdHeEViWDFSSXJKN2NBYnJMbGFWaG9TaVNZWjZQYWU5VUxsTWtvckxKVFN6ZG0xOTh5OHd4dXRsR3RIRTVnNXljenRBTW5oeTJqOU5xeE1Rb0Z5MGsxTWEyMmloWm5IYUJOd19RWlM1Z0JCUEJ5d2Q4YmF4SDhs?oc=5",
+      "published": "Fri, 02 Oct 2026 22:10:44 GMT",
+      "source": "Yahoo!ニュース"
+    },
+    {
+      "title": "楽都に響く華やかな音 郡山市音楽の日 - 福島民報デジタル",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5DV3dkSldKVDZrS0Y2UHYwX3pGbzlTb2ZzQUJsYl8ya2ZLM0hRa21UdGZHZ1g1WmMzNnU1OWJfcFZYd2c4RkpRLUI1Nl9nQXM?oc=5",
+      "published": "Sun, 04 Oct 2026 21:30:00 GMT",
+      "source": "福島民報デジタル"
+    },
+    {
+      "title": "全国高校軽音楽部大会 軽快に演奏響かせる 須賀川桐陽 - 福島民報デジタル",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1LMXRDNGktbHd0OEdSSnk4Wld3TGZ2UnNJZ2hmWng1UEhYcGRYenlwa05ZTDdGVnhtMmFPR2RuNks0MTlMb3Zkc25ackx1czA?oc=5",
+      "published": "Sun, 04 Oct 2026 20:22:00 GMT",
+      "source": "福島民報デジタル"
+    },
+    {
+      "title": "高校軽音楽部大会東北大会 磐城緑蔭中・高 ベストサポーター賞 - 福島民報デジタル",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9DWGJUNGQwWXZVVkRwWDU5cHZTbVk0UFVkVFFPTzVQLXJmWDdCMzVkT1NmbG9SVG55RGNZakhNekdlT19kZmRNU2xvVUpnUFE?oc=5",
+      "published": "Sun, 04 Oct 2026 20:04:00 GMT",
+      "source": "福島民報デジタル"
+    }
+  ],
   "_meta": {
-    "updated_at": "2026-10-04T21:08:11.223372+00:00"
+    "updated_at": "2026-10-04T22:06:42.846233+00:00"
   }
 }
