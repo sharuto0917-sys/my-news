@@ -1,10 +1,165 @@
 {
-  "日本": [],
-  "国際": [],
-  "AI・IT": [],
-  "教育": [],
-  "音楽": [],
+  "日本": [
+    {
+      "title": "高市首相、日朝首脳会談実現へ「具体的に行動する用意がある」…拉致被害者の即時帰国へ「私の代で突破口」 - 読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9kVTZkMGR0TFVTalVyREgxUW4tZnpKQWptU2xvSS0xSHJkeGloMTdXQTJnOENXVTJ6SEh5VnN5eGRkdnlFRkUtZ1ZVU3FxMVNfSHVLWFB2UERXUHZTTTJiQlllRUJlQQ?oc=5",
+      "published": "Sun, 08 Nov 2026 09:44:00 GMT",
+      "source": "読売新聞"
+    },
+    {
+      "title": "イスラエル大統領、野党党首に組閣指示へ 反ネタニヤフ陣営結集へ連立交渉：時事ドットコム - 時事ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1rdDFtYTlZUjFscWZtV1A3MmMxZlNmRUVUU0x2ODQyY1ZpMEZORUxTclM4UDJnbEMyOGlQR0RhRTQyWGxZemtyTWVhenlackE3RjFNTVJIUXZKcUdNTUF2MWVkRQ?oc=5",
+      "published": "Sat, 07 Nov 2026 23:49:00 GMT",
+      "source": "時事ドットコム"
+    },
+    {
+      "title": "愛媛県四国中央市：パラグライダーが墜落し女性死亡、初心者向けイベントに参加…単独飛行に挑戦中 - 読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9XU0xtMmRjbmhZM01JazQzN2NhZnRYcklUcDljOGxJTTZwVUhWYUItMkNhTGc0Z1VpWmVNNFRJV2p1Z2hYUEUwRzNGWnJ2cVRwWFBOVUNDa1hyTG5hQ2RIMTg0VnJrZw?oc=5",
+      "published": "Sun, 08 Nov 2026 11:58:00 GMT",
+      "source": "読売新聞"
+    },
+    {
+      "title": "サウジ首都金融街に攻撃、超高層ビル「アラムコタワー」で被害…フーシが市街地に対象拡大か - 読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1XUlhOUmJieHQwWWYyUktQdElVeUpUYjlhVVFBbzYxUWVyMUQ3R1lHeVNiQlN3Uk9zTEE3OW8zam9UbDNfWi1nTU9xcFRBSzFlZ0xXNzQ3ZEtTYWZjbjVEeGV3?oc=5",
+      "published": "Sun, 08 Nov 2026 10:14:00 GMT",
+      "source": "読売新聞"
+    },
+    {
+      "title": "9日は広く冷たい雨で東京都心は1月並みの寒さか 15日頃も広く雨 2週間天気予報(気象予報士 吉田 友海) - tenki.jp",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8yZjdKNTRKc2tpSWhkYUxOWERFc1JaX2NiTnJiSmZlSTZkaUYwZU9sa2xqejV1UExXZFYyamdsZGZWYnVqeTUtdVM4WUFZSzNWaUtLUkhjd3NIVlM4XzRic2VDSGthSHF0clV3?oc=5",
+      "published": "Sun, 08 Nov 2026 06:41:23 GMT",
+      "source": "tenki.jp"
+    }
+  ],
+  "国際": [
+    {
+      "title": "イスラエル野党陣営アイゼンコット氏に組閣要請へ、「反ネタニヤフ」でアラブ系協力…陣営内右派は協力に否定的 - 読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8yZkNZWTdjQUxtMmxzdlY0dDZVX0pzV1hjZnVBRDA0eHA3Z0F4R2pqbm5RQnJ6VXJITUJqWVZhN2hCWWEtV05TTndTSWMyb0JOVW54VFNkSDRWVWNjUVo3Qm9n?oc=5",
+      "published": "Sun, 08 Nov 2026 08:40:00 GMT",
+      "source": "読売新聞"
+    },
+    {
+      "title": "フーシ声明「サウジアラビア首都を攻撃した」 イエメンでは33人死亡 - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCcndrRlNVR2c5ZGljUUtfMTFtVjhCeV8yV1BSNlJDenhCYmFfYm1BcFpIUlgyYnZyOEk3SUFtNk9pMzFBcTQwWVUta0ZrdDVQSUNqek1KTW1iR0xkVjJtNkx1Rk4zVmI1TzF2eg?oc=5",
+      "published": "Sun, 08 Nov 2026 11:29:31 GMT",
+      "source": "日本経済新聞"
+    },
+    {
+      "title": "米軍、オマーン湾で貨物船を航行不能に 対イラン封鎖措置強化へ - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZzRCd0t3NE5kSnJrVWlGdGJHVUZOU3lLazg4c1NPQVhwV3doX0I0eDhaQndValU3b2VLUXB6aEwwWVd4NWFuUFVSRGRiR1RSZ1RMMi0xeTRtTzJsYmFXTkZtb0lzLTRUeXdtLV9DMk9CRlg1aEZtWVlIV2p6QVZFZFl0cDFVaTg?oc=5",
+      "published": "Sat, 07 Nov 2026 22:04:02 GMT",
+      "source": "Reuters"
+    },
+    {
+      "title": "＜主張＞COP31開幕へ 災害減の適応策に重点を 社説 - 産経ニュース",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHcjIwSGpsaTMtN3YyZ1hPYVo0cjVua0JCRTZBdnI1RkU3OWZwTXctOXlfemZ3Y1FmTUZsVFhRT3BDWTl4VG1CdjNFU25uSFRodnluT1VYdVV0UkFvV3JiZm1yMF9lekxVU0RqNnBwSGdOdlc0R3c?oc=5",
+      "published": "Sat, 07 Nov 2026 20:00:00 GMT",
+      "source": "産経ニュース"
+    },
+    {
+      "title": "スペイン領カナリア諸島で移民急増、緊急事態宣言 政府に支援要請 - ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9paUUySWl5TTE4N2tQVVVhTGt2SzJ4SWhyVk4za2hUR0hYaFdiNmpycWl1cTB0bUp0enJ2YjV4QVRTd3RObnNNVHR2SVNqbVdkVDllQ0hEbkYwTi1GMm5NZXRCeUR3ZmJ2bkpQWHN3VXlGbWfSAXhBVV95cUxQQ0hDSmZyNldwOXVuZnN3Y1p0QVVaa2NGM0hSdGFzbmowU1Y2bG5uOWxDODdXTThNeVRBWFBhNHRLSV9FZGNNZ2lhMGlBbERfbXozREl6V0dHTEJUM1RVSzlfajNfc0tDZ014Vnk4b0ZWc0hGcThsWE4?oc=5",
+      "published": "Sun, 08 Nov 2026 04:22:00 GMT",
+      "source": "ｄメニューニュース"
+    }
+  ],
+  "AI・IT": [
+    {
+      "title": "攻撃用AI「ARTEX」の管理画面1,465台がネット上に丸見え、日本国内にも51台が存在 - ビジネス+IT",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ENmtNV21sUW1KMFVlOEUwOS1RY0dXUlNBOFRrZjR2N01ad3hCSFAzNEs2c19FZS1QVW00UndoSkdvXzdaVUN5dXdtSzUwNjRaZDRB?oc=5",
+      "published": "Sat, 07 Nov 2026 08:44:00 GMT",
+      "source": "ビジネス+IT"
+    },
+    {
+      "title": "[FT]AI導入支援で潤うインドIT企業 - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5heVBkMDE1S0lLNUNVZUY2WmY3Rngwa1RCcmR4MXhuSHpqeXJxUVlEQXBNY2NENXJyaTU0MVlsT0RIbUk2ZlMxdVRTLVJZbTRtZmRpUEU5R3J6R1VUaDhtTlAyaXhvcWhrSlFvVw?oc=5",
+      "published": "Sat, 07 Nov 2026 17:00:00 GMT",
+      "source": "日本経済新聞"
+    },
+    {
+      "title": "企業の業務改善に役立てて 「生成AI」など最新IT技術に触れるイベント【岡山】（RSK山陽放送） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMdnBxOHBPeFBBSmlGX0o5OTBSWnAzMG9wd0VhaGM5WUxvVU1MWkFfa240bUQ3bl9ibVJUbmQ4TDhFMVZ0c0MySE5rQkxSYnFaQlo0OTY5NVJyQWlCdjZLbEhkZ3lKWTVZWUNuQjBUQmpHcW8wU201alkwNjU5MXc?oc=5",
+      "published": "Sat, 07 Nov 2026 04:00:34 GMT",
+      "source": "Yahoo!ニュース"
+    },
+    {
+      "title": "ITエンジニア採用、技術選考の7割が「AI利用可」 約9割の企業がAI活用力を選考評価に加味 - Excite エキサイト",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBRSG44NldkWGNsaFJOQkV1cUFLZzdzWmtpN1ZKLXU2ZjY5V0JsbVJfc0RYbUNNYWRLMEMtNktQZDhsRG5wcHFwWERqbXFuYjlscVlzTlF4YmhNRjVfd29yaWtZZUwyZ2RmM2l4S19zYkYxR0RTckE?oc=5",
+      "published": "Sun, 08 Nov 2026 10:10:00 GMT",
+      "source": "Excite エキサイト"
+    },
+    {
+      "title": "Box、AIエージェントで業務を自動化 - NVIDIA連携や業界特化型AIも強化 - マイナビニュース",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1yYWhKbzRZOVotYmI5aWFhbUE4MU0tQl9EbHdTY3NMRmdnbEVCanhFT0VDeVlfRlU5ZXVqamV4eHNzNVIyOXIyUHJQOEZQUVNYSVZCVFprbmV4WHp1R1pndlRxTFB4NF80?oc=5",
+      "published": "Fri, 06 Nov 2026 09:18:47 GMT",
+      "source": "マイナビニュース"
+    }
+  ],
+  "教育": [
+    {
+      "title": "少子化の日本にイギリス系インターナショナルスクール続々、学費年1000万円超も アジア教育需要狙う - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9KVDlNamczLTZVTHVkWnEzaG9oazVaZFQwVTBkWURENTBtS2JxOEgtaDJIS3pNVzAycFBpU0JobENGZURCeElKQnRGSmhVV1lZOURPbHVMVkI1WEE1LUM0eUt3Smt0Z1hnNC1Lcg?oc=5",
+      "published": "Sat, 07 Nov 2026 20:00:00 GMT",
+      "source": "日本経済新聞"
+    },
+    {
+      "title": "公開授業、特別講演で教員ら研さん 能代市で県国語教育研究協議会 - 北羽新報社",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA0SDFaWDlNZWVBbG5fbGhya2JYdGtEUVF2aTlwMG84VkRrdmVtZjJZN21oZFlmWDFkX0tuOERPTHN3NDBFMjRB?oc=5",
+      "published": "Sun, 08 Nov 2026 00:36:10 GMT",
+      "source": "北羽新報社"
+    },
+    {
+      "title": "教育界が勘違いした「不易流行」 「変えちゃダメ」の根拠にした弊害 - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAxS25mWWFMdGVlbWF5YTR5ckNxVU9XRkhsQnFZek5BWVhzRE1NYWtZYXREZ2JZUDRHZFF0bW90cWZFZGxMeWdlYnB2SldPYjRQaHBwM2xGdm9iVjZlYWdsdHB0bFI4d1E?oc=5",
+      "published": "Sun, 08 Nov 2026 05:00:00 GMT",
+      "source": "朝日新聞"
+    },
+    {
+      "title": "高校生の学習成果紹介 13・14日 産業教育フェア 県総合運動公園 39校参加 展示や即売会 - 沖縄タイムス社",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5VUlhudkpKVHlXQUJRbTlLcURQOEVURDJTTVRpbXpNTlZxa2Z1UEh5RTU1azdDQVRtVXZRcmdjNTdUUGVNNWZsSFFUMDQyRWZRWXdpdjNOdXI2ckljQWc?oc=5",
+      "published": "Sat, 07 Nov 2026 19:00:00 GMT",
+      "source": "沖縄タイムス社"
+    },
+    {
+      "title": "マラウイに福井の教育を 教員３人、至民中を視察 生徒主体の授業に理解 | 学校・教育 | 福井のニュース - 福井新聞社",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE84TlN6LThaUGFsOGhRMjFid3EzNm52X2pxX1AwdXRvckpXU29NREtmb2dtM09CQ1B3cjhqTWt6VUQ2N3dNOG9KZ3BheWpBQk1RUGc2M1A2aHlCTlJGTUE?oc=5",
+      "published": "Sat, 07 Nov 2026 20:00:00 GMT",
+      "source": "福井新聞社"
+    }
+  ],
+  "音楽": [
+    {
+      "title": "「ベストアーティスト2026」放送決定！ミセス、M!LK、BE:FIRST、HANA、キンプリ、SixTONES、＝LOVE、三代目JSBら集結 - ナタリー",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1tNnRkVGQ1NFBqOXdLdDRhTUE1YURxbTdTeUl3UTlrcWxoRkVFdFotdFE4emNtYmZJLVJKR2FCRHJuYXR2LTVsQUhfeGU?oc=5",
+      "published": "Sat, 07 Nov 2026 20:00:00 GMT",
+      "source": "ナタリー"
+    },
+    {
+      "title": "KO1KEYZが歌う純粋な愛、ウインターラブソング「White Love」配信決定（音楽ナタリー） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XRE1OU25zQkFGNGdHdHI2Tlc0Rlc4WU5xaDdKQzBDUkxqSGtLSkI0VGNVRjY5QnEwWUlTei04RGZkbGJ2dUJDSVgzVU1WYTNaa1A5OFc5UE9xUGhWdGRpelpRVVFvNjMtQldham1ISmw0NGZVWTVJcVBERGhtalE?oc=5",
+      "published": "Sun, 08 Nov 2026 13:54:11 GMT",
+      "source": "Yahoo!ニュース"
+    },
+    {
+      "title": "象の鼻パークで「ホッチポッチ横浜」横浜づくしの音楽祭 盆踊りも初開催 - ヨコハマ経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5JREJ5VmV1QkxnUW5HRVRhVnhuREZjbmg3dWlnOENueGoyblZnSXVSS2xkUUdjQlpsYU1sTldNQ2ZLMFBhNkplV3htMDdIOURN?oc=5",
+      "published": "Sat, 07 Nov 2026 12:55:27 GMT",
+      "source": "ヨコハマ経済新聞"
+    },
+    {
+      "title": "子どもも大人もオケ楽しむ・青森で音楽祭｜本社事業｜青森ニュース｜Web東奥 - 東奥日報社",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55aUVYdkQzQUdRaGlrQlZHTHcxUWZpMmpHY3RmSWtmMWxEOVRueE84VU5BNXU5OXBoV24xXy1BdlhjSGZGNGlwTTQ2SFlmT0JvYmRkUHY0Nk0?oc=5",
+      "published": "Sat, 07 Nov 2026 13:56:00 GMT",
+      "source": "東奥日報社"
+    },
+    {
+      "title": "東京発 〓 東京女子管弦楽団の音楽監督に阿部加奈子、13日にめぐろパーシモンホールで就任記念公演 - 月刊音楽祭",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBBOW5Xd01CYjNhS2dlbTRhR1BXNDFpOFdpNnhKNVhVdlk0MG1VVml6MmtIb2swUXBFLVd6aVpsYTNxdw?oc=5",
+      "published": "Sat, 07 Nov 2026 15:14:52 GMT",
+      "source": "月刊音楽祭"
+    }
+  ],
   "_meta": {
-    "updated_at": "2026-11-08T06:52:18.470742+00:00"
+    "updated_at": "2026-11-08T13:59:43.509479+00:00"
   }
 }
